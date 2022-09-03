@@ -9,7 +9,7 @@ const dethiRoute = require("./routes/dethi")
 const uploadRoute = require("./routes/upload")
 
 
-const PORT = 5000
+const PORT = process.env.PORT || 5000;
 const mongoose = require("mongoose")
 const path = require("path")
 require("dotenv").config()
