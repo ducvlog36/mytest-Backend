@@ -9,6 +9,7 @@ router.post("/themcauhoi", async (req,res) => {
             noidung: req.body.noidung,
             img: req.body.img,
             dapan: req.body.dapan,
+            dethiIdRoot: req.body.dethiId
         })
         const cauhoi = await newCauhoi.save()
         return res.status(200).json(cauhoi)

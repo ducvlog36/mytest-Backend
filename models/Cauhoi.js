@@ -23,6 +23,10 @@ const cauhoiSchema = new mongoose.Schema({
         type:Array,
         default: [],
     },
+    dethiIdRoot:{
+        type: String,
+        require: false
+    },
     nguoilamsai:{
         type:Array,
         default: [],

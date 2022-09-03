@@ -137,6 +137,23 @@ router.get("/cauhoi/:id", async(req,res)=>{
     }
 })
 
+//Get cau hoi theo id de thi
+router.get("/cauhoi_dethiID/:id", async(req,res)=>{
+    try{
+        const cauhoi = await Cauhoi.find({})
+        const listCauHoi = cauhoi.filter(cauhoi => cauhoi.dethiIdRoot === req.params.id)
+        //let cauhoi = []
+       // for(let i = 0; i < listCauHoi.length ; i++){
+       //     cauhoi[i] = await Cauhoi.findById(listCauHoi[i])
+       // }
+        return res.status(200).json(listCauHoi)
+    }catch(err){
+        return res.status(500).json(err)
+    }
+})
+
+
+
 //GEt đề thi theo user
 router.get("/user/:id", async (req, res) => {
     try{
