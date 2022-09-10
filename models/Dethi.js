@@ -28,6 +28,9 @@ const DethiSchema = new mongoose.Schema({
     },
     capdo:{
         type: String,
+    },
+    typedethi:{
+        type:String,
     }
 },
 {timestamps: true}
