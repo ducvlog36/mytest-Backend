@@ -1,0 +1,1702 @@
+[{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82c8"
+  },
+  "tuvung": "非常",
+  "cachdoc": "ひじょうに",
+  "nghia": "Rất",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82c9"
+  },
+  "tuvung": "大変（に）",
+  "cachdoc": "たいへん",
+  "nghia": "Cực",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82ca"
+  },
+  "tuvung": "ほとんど",
+  "cachdoc": "ほとんど",
+  "nghia": "Gần như hoàn toàn",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82cb"
+  },
+  "tuvung": "大体",
+  "cachdoc": "だいたい",
+  "nghia": "Đại khái",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82cc"
+  },
+  "tuvung": "かなり",
+  "cachdoc": "かなり",
+  "nghia": "Khá",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82cd"
+  },
+  "tuvung": "ずいぶん",
+  "cachdoc": "ずいぶん",
+  "nghia": "Khá",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82ce"
+  },
+  "tuvung": "結構",
+  "cachdoc": "けっこう",
+  "nghia": "Khá, tốt, đủ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82cf"
+  },
+  "tuvung": "だいぶ\nだいぶん",
+  "cachdoc": "大分",
+  "nghia": "Hầu như",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d0"
+  },
+  "tuvung": "もっと",
+  "cachdoc": "もっと",
+  "nghia": "Hơn nữa",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d1"
+  },
+  "tuvung": "すっかり",
+  "cachdoc": "すっかり",
+  "nghia": "Toàn bộ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d2"
+  },
+  "tuvung": "いっぱい",
+  "cachdoc": "いっぱい",
+  "nghia": "Đầy, nhiều",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d3"
+  },
+  "tuvung": "ぴったり",
+  "cachdoc": "ぴったり",
+  "nghia": "Vừa vặn, đúng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d4"
+  },
+  "tuvung": "たいてい",
+  "cachdoc": "たいてい",
+  "nghia": "Bình thường",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d5"
+  },
+  "tuvung": "同時に",
+  "cachdoc": "どうじに",
+  "nghia": "Đồng thời",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d6"
+  },
+  "tuvung": "前もって",
+  "cachdoc": "まえもって",
+  "nghia": "Trước",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d7"
+  },
+  "tuvung": "すぐ（に）",
+  "cachdoc": "すぐ（に）",
+  "nghia": "Ngay lập tức",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d8"
+  },
+  "tuvung": "もうすぐ",
+  "cachdoc": "もうすぐ",
+  "nghia": "Sắp, chuẩn bị",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82d9"
+  },
+  "tuvung": "突然",
+  "cachdoc": "とつぜん",
+  "nghia": "Đột nhiên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82da"
+  },
+  "tuvung": "あっという間に",
+  "cachdoc": "あっというまに",
+  "nghia": "Loáng một cái",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82db"
+  },
+  "tuvung": "いつの間にか",
+  "cachdoc": "いつのまにか",
+  "nghia": "Lúc nào không biết",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82dc"
+  },
+  "tuvung": "暫く",
+  "cachdoc": "しばらく",
+  "nghia": "Một chút",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82dd"
+  },
+  "tuvung": "ずっと",
+  "cachdoc": "ずっと",
+  "nghia": "Suốt, nhiều",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82de"
+  },
+  "tuvung": "相変わらず",
+  "cachdoc": "あいかわらず",
+  "nghia": "Như mọi khi",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82df"
+  },
+  "tuvung": "やっと",
+  "cachdoc": "やっと",
+  "nghia": "Cuối cùng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e0"
+  },
+  "tuvung": "もちろん",
+  "cachdoc": "もちろん",
+  "nghia": "Tất nhiên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e1"
+  },
+  "tuvung": "やはり",
+  "cachdoc": "やはり",
+  "nghia": "Cuối cùng, như dự tính",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e2"
+  },
+  "tuvung": "きっと",
+  "cachdoc": "きっと",
+  "nghia": "Nhất định",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e3"
+  },
+  "tuvung": "ぜひ",
+  "cachdoc": "ぜひ",
+  "nghia": "Rất",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e4"
+  },
+  "tuvung": "なるべく",
+  "cachdoc": "なるべく",
+  "nghia": "Càng…càng\nnếu có thể thì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e5"
+  },
+  "tuvung": "案外",
+  "cachdoc": "あんがい",
+  "nghia": "Không ngờ đến",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e6"
+  },
+  "tuvung": "もしかすると\nもしかしたら\nもしかして",
+  "cachdoc": "もしかすると\nもしかしたら\nもしかして",
+  "nghia": "Có lẽ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e7"
+  },
+  "tuvung": "まさか",
+  "cachdoc": "まさか",
+  "nghia": "Không thể ngờ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e8"
+  },
+  "tuvung": "うっかり",
+  "cachdoc": "うっかり",
+  "nghia": "Ngơ ngác, không để ý",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82e9"
+  },
+  "tuvung": "ついに",
+  "cachdoc": "ついに",
+  "nghia": "Buột, vô ý\nCuối cùng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82ea"
+  },
+  "tuvung": "思わず",
+  "cachdoc": "おもわず",
+  "nghia": "Không ngờ đến",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82eb"
+  },
+  "tuvung": "ほっと",
+  "cachdoc": "ほっと",
+  "nghia": "Yên tâm",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82ec"
+  },
+  "tuvung": "のんびり",
+  "cachdoc": "のんびり",
+  "nghia": "Từ từ tận hưởng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82ed"
+  },
+  "tuvung": "実は",
+  "cachdoc": "じつは",
+  "nghia": "Thực tế là",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82ee"
+  },
+  "tuvung": "ぐっすり",
+  "cachdoc": "ぐっすり",
+  "nghia": "Ngủ say",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82ef"
+  },
+  "tuvung": "きちんと",
+  "cachdoc": "きちんと",
+  "nghia": "Ngay ngắn, nghiêm chỉnh",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f0"
+  },
+  "tuvung": "しっかり",
+  "cachdoc": "しっかり",
+  "nghia": "Chắc chắn",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f1"
+  },
+  "tuvung": "はっきり",
+  "cachdoc": "はっきり",
+  "nghia": "Rõ ràng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f2"
+  },
+  "tuvung": "じっと",
+  "cachdoc": "じっと",
+  "nghia": "Nhìn chăm chằm",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f3"
+  },
+  "tuvung": "そっと",
+  "cachdoc": "そっと",
+  "nghia": "Yên lặng nhẹ nhàng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f4"
+  },
+  "tuvung": "互いに",
+  "cachdoc": "たがいに",
+  "nghia": "Lẫn nhau, song phương",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f5"
+  },
+  "tuvung": "ちょくせつ",
+  "cachdoc": "ちょくせつ",
+  "nghia": "Trực tiếp",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f6"
+  },
+  "tuvung": "本当に",
+  "cachdoc": "ほんとうに",
+  "nghia": "Thực sự thì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f7"
+  },
+  "tuvung": "必ず",
+  "cachdoc": "かならず",
+  "nghia": "Chắc chắn",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f8"
+  },
+  "tuvung": "絶対に",
+  "cachdoc": "ぜったいに",
+  "nghia": "Tuyệt đối",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82f9"
+  },
+  "tuvung": "特に",
+  "cachdoc": "とくに",
+  "nghia": "Đặc biệt là",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82fa"
+  },
+  "tuvung": "ただ",
+  "cachdoc": "ただ",
+  "nghia": "Chỉ\nNhưng, ngoại trừ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82fb"
+  },
+  "tuvung": "少なくても",
+  "cachdoc": "すくなくても",
+  "nghia": "Ít nhất",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82fc"
+  },
+  "tuvung": "決して",
+  "cachdoc": "けっして",
+  "nghia": "Không bao giờ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82fd"
+  },
+  "tuvung": "少しも",
+  "cachdoc": "すこしも",
+  "nghia": "Một chút",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82fe"
+  },
+  "tuvung": "ちっとも",
+  "cachdoc": "ちっとも",
+  "nghia": "Không…tí gì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c82ff"
+  },
+  "tuvung": "全く",
+  "cachdoc": "まったく",
+  "nghia": "hoàn toàn …không",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8300"
+  },
+  "tuvung": "とても",
+  "cachdoc": "とても",
+  "nghia": "Rất",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8301"
+  },
+  "tuvung": "どんなに",
+  "cachdoc": "どんなに",
+  "nghia": "Thế nào cũng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8302"
+  },
+  "tuvung": "どうしても",
+  "cachdoc": "どうしても",
+  "nghia": "Kiểu gì cũng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8303"
+  },
+  "tuvung": "まるで",
+  "cachdoc": "まるで",
+  "nghia": "Như là",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8304"
+  },
+  "tuvung": "一体",
+  "cachdoc": "いったい",
+  "nghia": "Cái quái gì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8305"
+  },
+  "tuvung": "別に",
+  "cachdoc": "べつに",
+  "nghia": "Không có gì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8306"
+  },
+  "tuvung": "たった",
+  "cachdoc": "たった",
+  "nghia": "Chỉ ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8307"
+  },
+  "tuvung": "ほんの",
+  "cachdoc": "ほんの",
+  "nghia": "Một chút",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8308"
+  },
+  "tuvung": "それで",
+  "cachdoc": "それで",
+  "nghia": "Thế thì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8309"
+  },
+  "tuvung": "そこで",
+  "cachdoc": "そこで",
+  "nghia": "Tiếp theo",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c830a"
+  },
+  "tuvung": "そのうえ",
+  "cachdoc": "そのうえ",
+  "nghia": "Hơn nữa",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c830b"
+  },
+  "tuvung": "また",
+  "cachdoc": "また",
+  "nghia": "Nữa",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c830c"
+  },
+  "tuvung": "または",
+  "cachdoc": "または",
+  "nghia": "Hoặc",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c830d"
+  },
+  "tuvung": "それとも",
+  "cachdoc": "それとも",
+  "nghia": "Hoặc",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c830e"
+  },
+  "tuvung": "つまり",
+  "cachdoc": "つまり",
+  "nghia": "Nói cách khác",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c830f"
+  },
+  "tuvung": "最も",
+  "cachdoc": "もっとも",
+  "nghia": "Nhất",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8310"
+  },
+  "tuvung": "ほぼ",
+  "cachdoc": "ほぼ",
+  "nghia": "Gần như",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8311"
+  },
+  "tuvung": "相当",
+  "cachdoc": "そうとう",
+  "nghia": "Đáng kể",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8312"
+  },
+  "tuvung": "割に\n割と\n割り合い（に/と）",
+  "cachdoc": "わりに\nわりと\nわりあい",
+  "nghia": "Tương đối",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8313"
+  },
+  "tuvung": "多少",
+  "cachdoc": "たしょう",
+  "nghia": "Một chút",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8314"
+  },
+  "tuvung": "少々",
+  "cachdoc": "しょうしょう",
+  "nghia": "Một chút",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8315"
+  },
+  "tuvung": "全て",
+  "cachdoc": "すべて",
+  "nghia": "Toàn bộ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8316"
+  },
+  "tuvung": "何もかも",
+  "cachdoc": "なにもかも",
+  "nghia": "Toàn bộ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8317"
+  },
+  "tuvung": "たっぷり",
+  "cachdoc": "たっぷり",
+  "nghia": "Đủ, nhiều",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8318"
+  },
+  "tuvung": "できるだけ",
+  "cachdoc": "できるだけ",
+  "nghia": "Càng càng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8319"
+  },
+  "tuvung": "次第に",
+  "cachdoc": "しだいに",
+  "nghia": "Dần dần",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c831a"
+  },
+  "tuvung": "徐々に",
+  "cachdoc": "じょじょに",
+  "nghia": "Chút một, chút một",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c831b"
+  },
+  "tuvung": "さらに",
+  "cachdoc": "さらに",
+  "nghia": "Hơn nữa",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c831c"
+  },
+  "tuvung": "一層",
+  "cachdoc": "いっそう（tầng)",
+  "nghia": "Hơn, vẫn",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c831d"
+  },
+  "tuvung": "一段と",
+  "cachdoc": "いちだんと",
+  "nghia": "Hơn rất nhiều",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c831e"
+  },
+  "tuvung": "より",
+  "cachdoc": "より",
+  "nghia": "Hơn",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c831f"
+  },
+  "tuvung": "結局",
+  "cachdoc": "けっきょく",
+  "nghia": "Kết cục",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8320"
+  },
+  "tuvung": "ようやく",
+  "cachdoc": "ようやく",
+  "nghia": "Cuối cùng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8321"
+  },
+  "tuvung": "再び",
+  "cachdoc": "ふたたび",
+  "nghia": "Lần nữa",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8322"
+  },
+  "tuvung": "たちまち",
+  "cachdoc": "たちまち",
+  "nghia": "Ngày lập tức",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8323"
+  },
+  "tuvung": "今度",
+  "cachdoc": "こんど",
+  "nghia": "Lần này",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8324"
+  },
+  "tuvung": "今後",
+  "cachdoc": "こんご",
+  "nghia": "Từ giờ về sau",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8325"
+  },
+  "tuvung": "後（に）",
+  "cachdoc": "のち（に）",
+  "nghia": "Sau đó",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8326"
+  },
+  "tuvung": "まもなく",
+  "cachdoc": "まもなく",
+  "nghia": "Sắp",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8327"
+  },
+  "tuvung": "そのうち（に）",
+  "cachdoc": "そのうち（に）",
+  "nghia": "Lúc nào đó",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8328"
+  },
+  "tuvung": "やがて",
+  "cachdoc": "やがて",
+  "nghia": "Cuối cùng, sắp sớm",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8329"
+  },
+  "tuvung": "いずれ",
+  "cachdoc": "いずれ",
+  "nghia": "Sớm hay muộn",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c832a"
+  },
+  "tuvung": "先ほど",
+  "cachdoc": "さきほど",
+  "nghia": "Cách đây không lâu",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c832b"
+  },
+  "tuvung": "とっくに",
+  "cachdoc": "とっくに",
+  "nghia": "Rồi, lâu rồi",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c832c"
+  },
+  "tuvung": "すでに",
+  "cachdoc": "すでに",
+  "nghia": "Rồi",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c832d"
+  },
+  "tuvung": "事前に",
+  "cachdoc": "じぜんに",
+  "nghia": "Trước",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c832e"
+  },
+  "tuvung": "当日",
+  "cachdoc": "とうじつ",
+  "nghia": "Ngày đó",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c832f"
+  },
+  "tuvung": "当時",
+  "cachdoc": "とうじ",
+  "nghia": "Thời đó",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8330"
+  },
+  "tuvung": "一時",
+  "cachdoc": "いちじ",
+  "nghia": "Nhất thời, có lúc",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8331"
+  },
+  "tuvung": "至急",
+  "cachdoc": "しきゅう",
+  "nghia": "Khẩn cấp",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8332"
+  },
+  "tuvung": "直ちに",
+  "cachdoc": "ただちに",
+  "nghia": "Lập tức",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8333"
+  },
+  "tuvung": "早速",
+  "cachdoc": "さっそく",
+  "nghia": "Nhanh chóng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8334"
+  },
+  "tuvung": "いきなり",
+  "cachdoc": "いきなり",
+  "nghia": "Bất ngờ, bất thình lình",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8335"
+  },
+  "tuvung": "常に",
+  "cachdoc": "つねに",
+  "nghia": "Thường xuyên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8336"
+  },
+  "tuvung": "絶えず",
+  "cachdoc": "たえず",
+  "nghia": "Liên tục",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8337"
+  },
+  "tuvung": "しばしば",
+  "cachdoc": "しばしば",
+  "nghia": "Thường xuyên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8338"
+  },
+  "tuvung": "たびたび",
+  "cachdoc": "たびたび",
+  "nghia": "Hay, thường xuyên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8339"
+  },
+  "tuvung": "しょっちゅう",
+  "cachdoc": "しょっちゅう",
+  "nghia": "Hay",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c833a"
+  },
+  "tuvung": "たまに",
+  "cachdoc": "たまに",
+  "nghia": "Thỉnh thoảng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c833b"
+  },
+  "tuvung": "めったに",
+  "cachdoc": "めったに",
+  "nghia": "Hiếm khi",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c833c"
+  },
+  "tuvung": "したがって",
+  "cachdoc": "したがって",
+  "nghia": "Theo đó",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c833d"
+  },
+  "tuvung": "だが",
+  "cachdoc": "だが",
+  "nghia": "Tuy nhiên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c833e"
+  },
+  "tuvung": "ところが",
+  "cachdoc": "ところが",
+  "nghia": "Nhưng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c833f"
+  },
+  "tuvung": "しかも",
+  "cachdoc": "しかも",
+  "nghia": "Hơn nữa",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8340"
+  },
+  "tuvung": "すると",
+  "cachdoc": "すると",
+  "nghia": "Như vậy",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8341"
+  },
+  "tuvung": "なぜなら",
+  "cachdoc": "なぜなら",
+  "nghia": "Bởi vì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8342"
+  },
+  "tuvung": "だって",
+  "cachdoc": "だって",
+  "nghia": "Bởi vì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8343"
+  },
+  "tuvung": "要するに",
+  "cachdoc": "ようするに",
+  "nghia": "Tóm lại",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8344"
+  },
+  "tuvung": "すなわち",
+  "cachdoc": "すなわち",
+  "nghia": "Tóm lại, đó là",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8345"
+  },
+  "tuvung": "あるいは",
+  "cachdoc": "あるいは",
+  "nghia": "Hoặc",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8346"
+  },
+  "tuvung": "さて",
+  "cachdoc": "さて",
+  "nghia": "Thế thì, tiếp",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8347"
+  },
+  "tuvung": "では",
+  "cachdoc": "では",
+  "nghia": "Thế thì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8348"
+  },
+  "tuvung": "ところで",
+  "cachdoc": "ところで",
+  "nghia": "Nhân tiện",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8349"
+  },
+  "tuvung": "そう言えば",
+  "cachdoc": "そういえば",
+  "nghia": "Nói như vậy",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c834a"
+  },
+  "tuvung": "さっぱり",
+  "cachdoc": "さっぱり",
+  "nghia": "hoàn toàn sảng khoái, nhẹ nhõm",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c834b"
+  },
+  "tuvung": "すっきり",
+  "cachdoc": "すっきり",
+  "nghia": "sảng khoái lại",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c834c"
+  },
+  "tuvung": "実に",
+  "cachdoc": "じつに",
+  "nghia": "thực tế, thực ra",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c834d"
+  },
+  "tuvung": "思い切り",
+  "cachdoc": "おもいきり",
+  "nghia": "hết sức",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c834e"
+  },
+  "tuvung": "何となく",
+  "cachdoc": "なんとなく",
+  "nghia": "hơi hơi, một chút",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c834f"
+  },
+  "tuvung": "何だか",
+  "cachdoc": "なんだか",
+  "nghia": "một tí, một chút, hơi hơi",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8350"
+  },
+  "tuvung": "どうにか",
+  "cachdoc": "どうにか",
+  "nghia": "bằng cách nào đó, như thế nào đó",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8351"
+  },
+  "tuvung": "どうにも",
+  "cachdoc": "どうにも",
+  "nghia": "chẳng thể làm gì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8352"
+  },
+  "tuvung": "何とか",
+  "cachdoc": "なんとか",
+  "nghia": "chút nào đó, gì đó",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8353"
+  },
+  "tuvung": "何とも",
+  "cachdoc": "なんとも",
+  "nghia": "không...một chút nào",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8354"
+  },
+  "tuvung": "わざと",
+  "cachdoc": "わざと",
+  "nghia": "cố ý",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8355"
+  },
+  "tuvung": "せっかく",
+  "cachdoc": "せっかく",
+  "nghia": "đã mất công",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8356"
+  },
+  "tuvung": "あいにく",
+  "cachdoc": "あいにく",
+  "nghia": "đáng tiếc",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8357"
+  },
+  "tuvung": "案の定",
+  "cachdoc": "あんじょう",
+  "nghia": "quả như đã nghĩ, như mong đợi",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8358"
+  },
+  "tuvung": "さすが",
+  "cachdoc": "さすが",
+  "nghia": "quả là, như dự đoán, thật đúng là",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8359"
+  },
+  "tuvung": "とにかく",
+  "cachdoc": "とにかく",
+  "nghia": "dù sao, cách này hay cách khác",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c835a"
+  },
+  "tuvung": "ともかく",
+  "cachdoc": "ともかく",
+  "nghia": "dù sao, cách này hay cách khác",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c835b"
+  },
+  "tuvung": "せめて",
+  "cachdoc": "せめて",
+  "nghia": "ít nhất, tối thiểu là",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c835c"
+  },
+  "tuvung": "どうせ",
+  "cachdoc": "どうせ",
+  "nghia": "dù cho, đằng nào thì",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c835d"
+  },
+  "tuvung": "ぎっしり",
+  "cachdoc": "ぎっしり",
+  "nghia": "lèn chặt, đầy chặt, kín lịch",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c835e"
+  },
+  "tuvung": "ずらりと",
+  "cachdoc": "ずらりと",
+  "nghia": "trong 1 dãy",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c835f"
+  },
+  "tuvung": "あっさり",
+  "cachdoc": "あっさり",
+  "nghia": "đơn giản, nhẹ nhàng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8360"
+  },
+  "tuvung": "しんと\nしいんと",
+  "cachdoc": "しんと\nしいんと",
+  "nghia": "yên lặng, lặng lẽ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8361"
+  },
+  "tuvung": "ちゃんと",
+  "cachdoc": "ちゃんと",
+  "nghia": "cẩn thận, kĩ càng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8362"
+  },
+  "tuvung": "どっと",
+  "cachdoc": "どっと",
+  "nghia": "tất cả, cùng lúc",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8363"
+  },
+  "tuvung": "ばったり",
+  "cachdoc": "ばったり",
+  "nghia": "đột nhiên, ngã",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8364"
+  },
+  "tuvung": "さっさと",
+  "cachdoc": "さっさと",
+  "nghia": "nhanh chóng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8365"
+  },
+  "tuvung": "さっと",
+  "cachdoc": "さっと",
+  "nghia": "nhanh",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8366"
+  },
+  "tuvung": "すっと",
+  "cachdoc": "すっと",
+  "nghia": "vươn thẳng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8367"
+  },
+  "tuvung": "せっせと",
+  "cachdoc": "せっせと",
+  "nghia": "siên năng, cần cù",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8368"
+  },
+  "tuvung": "ざっと",
+  "cachdoc": "ざっと",
+  "nghia": "khoảng, nháp, qua",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8369"
+  },
+  "tuvung": "そっそり",
+  "cachdoc": "そっそり",
+  "nghia": "bí mật, lén lút",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c836a"
+  },
+  "tuvung": "ばんやり",
+  "cachdoc": "ばんやり",
+  "nghia": "mờ ảo",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c836b"
+  },
+  "tuvung": "ふと",
+  "cachdoc": "ふと",
+  "nghia": "đột nhiên, tình cờ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c836c"
+  },
+  "tuvung": "じかに",
+  "cachdoc": "じかに",
+  "nghia": "trực tiếp",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c836d"
+  },
+  "tuvung": "一度に",
+  "cachdoc": "いちどに",
+  "nghia": "1 lần, cùng lúc",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c836e"
+  },
+  "tuvung": "一斉に",
+  "cachdoc": "いっせいに (tế)",
+  "nghia": "cùng lúc",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c836f"
+  },
+  "tuvung": "共に",
+  "cachdoc": "ともに",
+  "nghia": "cùng với",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8370"
+  },
+  "tuvung": "相互に",
+  "cachdoc": "そうごに",
+  "nghia": "lẫn nhau, cùng nhau",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8371"
+  },
+  "tuvung": "どうか",
+  "cachdoc": "どうか",
+  "nghia": "どうぞ, sai",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8372"
+  },
+  "tuvung": "できれば\nできたち",
+  "cachdoc": "できれば\nできたち",
+  "nghia": "Có thể",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8373"
+  },
+  "tuvung": "たいして",
+  "cachdoc": "たいして",
+  "nghia": "không thú vị lắm",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8374"
+  },
+  "tuvung": "恐らく",
+  "cachdoc": "おそらく",
+  "nghia": "có lẽ",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8375"
+  },
+  "tuvung": "むしろ",
+  "cachdoc": "むしろ",
+  "nghia": "hơn",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8376"
+  },
+  "tuvung": "果たして",
+  "cachdoc": "はたして",
+  "nghia": "quả nhiên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8377"
+  },
+  "tuvung": "かえって",
+  "cachdoc": "かえって",
+  "nghia": "ngược lại, hơn",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8378"
+  },
+  "tuvung": "必ずしも",
+  "cachdoc": "かならずしも",
+  "nghia": "không hẳn, không cần thiết",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8379"
+  },
+  "tuvung": "単に",
+  "cachdoc": "たんに",
+  "nghia": "chỉ, đơn giản",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c837a"
+  },
+  "tuvung": "いまだに",
+  "cachdoc": "いまだに",
+  "nghia": "vẫn chưa",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c837b"
+  },
+  "tuvung": "ついでに",
+  "cachdoc": "ついでに",
+  "nghia": "nhân tiện",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c837c"
+  },
+  "tuvung": "とりあえず",
+  "cachdoc": "とりあえず",
+  "nghia": "đầu tiên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c837d"
+  },
+  "tuvung": "万一\n万が一",
+  "cachdoc": "まんいち\nまんがいち",
+  "nghia": "trường hợp xấu, khẩn cấp",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c837e"
+  },
+  "tuvung": "偶然",
+  "cachdoc": "ぐうぜん",
+  "nghia": "ngẫu nhiên",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c837f"
+  },
+  "tuvung": "実際（に）",
+  "cachdoc": "じっさい（に）",
+  "nghia": "thực tế",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8380"
+  },
+  "tuvung": "同様",
+  "cachdoc": "どうよう",
+  "nghia": "giống",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8381"
+  },
+  "tuvung": "本来",
+  "cachdoc": "ほんらい",
+  "nghia": "từ đầu, nguyên bản",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8382"
+  },
+  "tuvung": "あらゆる",
+  "cachdoc": "あらゆる",
+  "nghia": "tất cả",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8383"
+  },
+  "tuvung": "たいした",
+  "cachdoc": "たいした",
+  "nghia": "không có gì to tát, không có gì nghiêm trọng",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+},{
+  "_id": {
+    "$oid": "6327f4ba6bcfbb51772c8384"
+  },
+  "tuvung": "いわゆる",
+  "cachdoc": "いわゆる",
+  "nghia": "gọi là, thường gọi là",
+  "capdo": "N3",
+  "giaotrinh": "Phó từ N3"
+}]

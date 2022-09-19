@@ -7,7 +7,7 @@ const capdoRoute = require("./routes/capdodethi")
 const cauhoiRoute = require("./routes/cauhoi")
 const dethiRoute = require("./routes/dethi")
 const tuvungRouter = require("./routes/tuvung")
-const mimin2Router = require("./routes/mimin2")
+const giaotrinhRouter = require("./routes/giaotrinh")
 
 const PORT = process.env.PORT || 5000;
 const mongoose = require("mongoose")
@@ -35,7 +35,7 @@ app.use("/api/capdo", capdoRoute)
 app.use("/api/cauhoi", cauhoiRoute)
 app.use("/api/dethi", dethiRoute)
 app.use("/api/tuvung", tuvungRouter)
-app.use("/api/mimin2", mimin2Router)
+app.use("/api/giaotrinh", giaotrinhRouter)
 
 app.get("/", (req, res)=>{
     res.send("hello express")

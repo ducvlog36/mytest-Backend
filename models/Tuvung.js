@@ -29,8 +29,20 @@ const TuvungSchema = new mongoose.Schema({
         type: String,
         require: false,
     },
+    cachdoc : {
+        type: String,
+    },
+    hanviet: {
+        type: Array,
+    },
+    capdo:{
+        type: Array,
+    },
+    giaotrinh: {
+        type: Array,
+    }
 },
 {timestamps: true}
 )
 
-module.exports = mongoose.model("Tuvung", TuvungSchema)
+module.exports = mongoose.model("tuvung_main", TuvungSchema)
