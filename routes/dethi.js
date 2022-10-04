@@ -1,6 +1,5 @@
 const router = require("express").Router();
 const Dethi = require("../models/Dethi");
-const Capdo = require("../models/Capdothi");
 const Cauhoi = require("../models/Cauhoi");
 const User = require("../models/User");
 
@@ -161,6 +160,8 @@ router.get("/user/:id", async (req, res) => {
   }
 });
 
+
+
 //Get de thi theo Id de thi
 //GEt đề thi theo user
 router.get("/dethibyId/:id", async (req, res) => {
@@ -194,4 +195,57 @@ router.delete("/:id", async (req, res) => {
     return res.status(500).json(err);
   }
 });
+
+// Lưu kết quả vào đề thi
+router.put("/:id/ketqua", async(req,res) => {
+  try {
+
+      const dethi = await Dethi.findById(req.params.id)
+      const userName = req.body.userName
+      const diemthi = req.body.diemthi
+      let isCotennguoidung = 0
+      const nguoihoc = {
+        name: userName,
+        diemthi: diemthi
+      }
+
+      const nguoihocUpdate = dethi.nguoiHoc
+
+      if(dethi.nguoiHoc.length === 0){
+        await dethi.updateOne({
+          $push:{
+            nguoiHoc: nguoihoc
+          }
+        })
+      } else {
+        for(let i = 0; i < dethi.nguoiHoc.length; i++){
+          if(nguoihocUpdate[i].name === userName){
+            nguoihocUpdate[i] = nguoihoc
+            await dethi.updateOne(
+              {
+                $set: {
+                  nguoiHoc : nguoihocUpdate
+                }
+              }
+            )
+          } else {
+            await dethi.updateOne(
+              {
+                $push: {
+                  nguoiHoc : nguoihoc
+                }
+              }
+            )
+          }
+        }
+      }
+
+      return res.status(200).json("Nộp bài thành công")
+
+  }
+  catch(err){
+      return res.status(500).json(err)
+  }
+})
+
 module.exports = router;

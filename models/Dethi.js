@@ -12,6 +12,10 @@ const DethiSchema = new mongoose.Schema({
         type: Array,
         default: [],
     },
+    nguoiHoc:{
+        type: Array,
+        default: [],
+    },
     cauhoi:{
         type:Array,
         default:[]

@@ -68,7 +68,7 @@ const fs = require("fs");
 router.post("/all_csv/csv", async (req, res) => {
   const data = [];
   try {
-    fs.createReadStream("bai_tap_ngay_6.csv")
+    fs.createReadStream("bai_tap_ngay_9.csv")
       .pipe(csv())
       .on("data", (row) => {
         data.push(row);
@@ -118,7 +118,7 @@ router.post("/all_csv/csv", async (req, res) => {
             noidung: noidung,
             //img: req.body.img,
             dapan: dapan,
-            dethiIdRoot: "632bc22344b8b6a1bb183ebb",
+            dethiIdRoot: "6336eef34035daf9c3c4350c",
           });
           const cauhoi = await newCauhoi.save();
         }
