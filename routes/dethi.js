@@ -211,24 +211,40 @@ router.put("/:id/ketqua", async(req,res) => {
 
       const nguoihocUpdate = dethi.nguoiHoc
 
-      if(dethi.nguoiHoc.length === 0){
-        await dethi.updateOne({
-          $push:{
-            nguoiHoc: nguoihoc
-          }
-        })
-      } else {
-        for(let i = 0; i < dethi.nguoiHoc.length; i++){
-          if(nguoihocUpdate[i].name === userName){
-            nguoihocUpdate[i] = nguoihoc
-            await dethi.updateOne(
-              {
-                $set: {
-                  nguoiHoc : nguoihocUpdate
+    //  await dethi.replaceOne(
+    //    {
+    //      $set: {
+    //        nguoiHoc : nguoihoc
+    //      }
+    //    }
+    //  )
+
+     if(dethi.nguoiHoc.length === 0){
+       await dethi.updateOne({
+         $push:{
+           nguoiHoc: nguoihoc
+         }
+       })
+     } else 
+     {
+         for(let i = 0; i < dethi.nguoiHoc.length; i++){
+            if(nguoihocUpdate[i].name === userName){
+              isCotennguoidung++
+            }
+            if(isCotennguoidung > 0){
+              nguoihocUpdate[i] = nguoihoc
+              await dethi.updateOne(
+                {
+                  $set: {
+                    nguoiHoc : nguoihocUpdate
+                  }
                 }
-              }
-            )
-          } else {
+              )
+            } 
+         }
+
+         if(isCotennguoidung === 0) 
+          {
             await dethi.updateOne(
               {
                 $push: {
@@ -236,9 +252,8 @@ router.put("/:id/ketqua", async(req,res) => {
                 }
               }
             )
-          }
-        }
-      }
+         }
+     }
 
       return res.status(200).json("Nộp bài thành công")
 
