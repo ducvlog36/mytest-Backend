@@ -240,7 +240,8 @@ router.put("/:id/ketqua", async(req,res) => {
                   }
                 }
               )
-            } 
+              break
+            }
          }
 
          if(isCotennguoidung === 0) 
