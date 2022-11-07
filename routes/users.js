@@ -94,6 +94,20 @@ router.get("/:id/nhungcaulamsai", async(req,res) =>{
     }
 })
 
+router.get("/:id/userAddedDethi", async(req,res) =>{
+    try{
+        const user = await User.findById(req.params.id)
+        const danghoc = user.danghoc
+        let dethi = []
+        for(let i = 0; i < danghoc.length;i++){
+            dethi[i] = await Dethi.findById(danghoc[i])
+        }
+
+        return res.status(200).json(dethi)
+    }catch(err){
+        return res.status(500).json(err)
+    }
+})
 // Them cau lam sai cho user
 router.put("/:id/themcaulamsai", async(req,res) => {
     try{
@@ -184,12 +198,12 @@ router.put("/:id/deleteDethi", async(req,res) =>{
 
     }
 })
-//xoa follow cho user
+//user xóa đề thi đã lưu , xóa danh sách người làm bên đề thi
 router.put("/:id/userXoadethi", async(req,res) => {
         try{
             const user = await User.findById(req.params.id)
             const dethi = await Dethi.findById(req.body.madethi)
-
+            
             if(user.danghoc.includes(req.body.madethi))
             {
                 await user.updateOne({
@@ -202,10 +216,10 @@ router.put("/:id/userXoadethi", async(req,res) => {
                         userId: req.params.id,
                     },
                 })
-                return res.status(403).json("Bạn đã xóa đề thi thành công")
+                return res.status(200).json("Bạn đã xóa đề thi thành công")
 
             } else {
-                return res.status(403).json("Đề thi bạn không lưu")
+                return res.status(200).json("Đề thi bạn không lưu")
             }
         } catch(err){
             return res.status(500).json(err)

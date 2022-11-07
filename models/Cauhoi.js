@@ -23,7 +23,13 @@ const cauhoiSchema = new mongoose.Schema({
         type:Array,
         default: [],
     },
+    // trường dùng tạm thời cho web test hằng ngày
     dethiIdRoot:{
+        type: String,
+        require: false
+    },
+    // trường dùng chính thức
+    IdDethiRoot:{
         type: String,
         require: false
     },

@@ -211,14 +211,6 @@ router.put("/:id/ketqua", async(req,res) => {
 
       const nguoihocUpdate = dethi.nguoiHoc
 
-    //  await dethi.replaceOne(
-    //    {
-    //      $set: {
-    //        nguoiHoc : nguoihoc
-    //      }
-    //    }
-    //  )
-
      if(dethi.nguoiHoc.length === 0){
        await dethi.updateOne({
          $push:{
