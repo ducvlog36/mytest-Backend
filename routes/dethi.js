@@ -26,6 +26,8 @@ router.post("/:id/userTaodethi", async (req, res) => {
 
     const newDethi = await new Dethi({
       name: req.body.name,
+      desc: req.body.desc,
+      ispublic: req.body.ispublic,
       userCreate: userId,
     });
     const dethi = await newDethi.save();
@@ -40,7 +42,7 @@ router.post("/:id/userTaodethi", async (req, res) => {
   }
 });
 
-//Add cau hoi vao de thi
+//Add lẻ từng cau hoi vao de thi
 router.put("/:id/themcauhoi", async (req, res) => {
   try {
     const dethi = await Dethi.findById(req.params.id);
@@ -59,6 +61,55 @@ router.put("/:id/themcauhoi", async (req, res) => {
       return res.status(403).json("Đẫ thêm câu hỏi vào đề thi");
     } else {
       return res.status(403).json("Câu hỏi đã tồn tại trong bộ đề này");
+    }
+  } catch (err) {
+    return res.status(500).json(err);
+  }
+});
+
+//Add list cau hoi vao de thi
+router.put("/:id/listCauhoi", async (req, res) => {
+  try {
+    const dethi = await Dethi.findById(req.params.id);
+    const cauhoi = req.body.cauhoiId;
+    await dethi.updateOne({
+      $set: {
+        cauhoi: [],
+      },
+    });
+    for(let i = 0; i < cauhoi.length; i++){
+      if (!dethi.cauhoi.includes(req.body.cauhoiId)) {
+        console.log(cauhoi[i])
+        await dethi.updateOne({
+          $push: {
+            cauhoi: cauhoi[i],
+          },
+        });
+      } else {
+        i++
+      }
+    }
+    return res.status(203).json("Đẫ thêm câu hỏi vào đề thi");
+
+  } catch (err) {
+    return res.status(500).json(err);
+  }
+});
+
+//Xoa cau hoi ra khoi list cau hoi
+router.put("/:id/xoacauhoiList", async (req, res) => {
+  try {
+    const dethi = await Dethi.findById(req.params.id);
+
+    if (dethi.cauhoi.includes(req.body.cauhoiId)) {
+      await dethi.updateOne({
+        $pull: {
+          cauhoi: req.body.cauhoiId,
+        },
+      });
+      return res.status(403).json("Đẫ xoa câu hỏi khoi đề thi");
+    } else {
+      return res.status(403).json("Câu hỏi khong tồn tại trong bộ đề này");
     }
   } catch (err) {
     return res.status(500).json(err);
@@ -90,6 +141,9 @@ router.put("/:id/xoacauhoi", async (req, res) => {
     return res.status(500).json(err);
   }
 });
+
+
+
 //GEt De thi
 router.get("/:id", async (req, res) => {
   try {
@@ -133,7 +187,7 @@ router.get("/cauhoi_dethiID/:id", async (req, res) => {
   try {
     const cauhoi = await Cauhoi.find({});
     const listCauHoi = cauhoi.filter(
-      (cauhoi) => cauhoi.dethiIdRoot === req.params.id
+      (cauhoi) => cauhoi.IdDethiRoot === req.params.id
     );
     //let cauhoi = []
     // for(let i = 0; i < listCauHoi.length ; i++){
