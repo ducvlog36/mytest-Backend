@@ -1,6 +1,8 @@
 const router = require("express").Router();
 const Cauhoi = require("../models/Cauhoi");
 
+
+//tao moi cau hoi
 router.post("/themcauhoi", async (req, res) => {
   try {
     const newCauhoi = await new Cauhoi({
@@ -17,6 +19,20 @@ router.post("/themcauhoi", async (req, res) => {
     return res.status(500).json("saothe nhi!" + err);
   }
 });
+
+//Edit cau hoi
+router.put("/editcauhoi/:id",async(req,res)=>{
+  try{
+    const cauhoi = await Cauhoi.findByIdAndUpdate(req.params.id, {
+      $set: req.body,
+    })
+
+    return res.status(200).json(req.body)
+
+  }catch(err){
+    return res.status(500).json(err)
+  }
+})
 
 //Get cau hoi theo id
 router.get("/:id", async (req, res) => {
@@ -37,6 +53,7 @@ router.get("/all/:id", async (req, res) => {
     return res.status(500).json(err);
   }
 });
+
 
 //Get cau hoi theo ID cau hoi
 //router.get("/:id", async (req, res) => {
@@ -61,7 +78,7 @@ router.delete("/:id", async (req, res) => {
 });
 
 
-//Xử lý đọc file csv tạm thời
+/*Xử lý đọc file csv tạm thời
 
 const csv = require("csv-parser");
 const fs = require("fs");
@@ -136,7 +153,7 @@ router.post("/all_csv/csv", async (req, res) => {
   }
 });
 
-/*
+*/
 //Xử lý đọc file csv chính thức
 const csv = require("csv-parser");
 const fs = require("fs");
@@ -144,7 +161,7 @@ const fs = require("fs");
 router.post("/readcsv/csv", async (req, res) => {
   const data = [];
   try {
-    fs.createReadStream("bai_tap_ngay_11.csv")
+    fs.createReadStream("JLPT-N2-12-2018.csv")
       .pipe(csv())
       .on("data", (row) => {
         data.push(row);
@@ -194,7 +211,7 @@ router.post("/readcsv/csv", async (req, res) => {
             noidung: noidung,
             //img: req.body.img,
             dapan: dapan,
-            IdDethiRoot: "6361ee2a55825a9bb73a4cfa",
+            IdDethiRoot: "6370fadf7758de286eea4d46",
           });
           const cauhoi = await newCauhoi.save();
         }
@@ -210,7 +227,7 @@ router.post("/readcsv/csv", async (req, res) => {
     return res.status(500).json(err);
   }
 });
-*/
+
 
 
 router.get("/all_csv/csv", async (req, res) => {
@@ -222,7 +239,6 @@ router.get("/all_csv/csv", async (req, res) => {
         data.push(row);
       })
       .on("end", () => {
-        console.log(data[1].dich4);
 
         const Addcauhoi = async () => {
           try {
@@ -260,7 +276,6 @@ router.get("/testnguphap/tes", async (req, res) => {
       .pipe(csv())
       .on("data", (row) => {
         data.push(row);
-        console.log(data)
       })
       .on("end", () => {
 

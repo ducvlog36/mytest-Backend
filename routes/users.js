@@ -2,6 +2,7 @@ const router = require("express").Router()
 const User = require("../models/User")
 const Dethi = require("../models/Dethi")
 const Cauhoi = require("../models/Cauhoi")
+const Giaotrinh = require("../models/Giaotrinh")
 
 //ユーザー情報の更新
 router.put("/:id", async(req,res) => {
@@ -94,6 +95,7 @@ router.get("/:id/nhungcaulamsai", async(req,res) =>{
     }
 })
 
+//user add de thi bang id de thi
 router.get("/:id/userAddedDethi", async(req,res) =>{
     try{
         const user = await User.findById(req.params.id)
@@ -108,6 +110,44 @@ router.get("/:id/userAddedDethi", async(req,res) =>{
         return res.status(500).json(err)
     }
 })
+
+// get de thi tu vung cho user
+router.get("/:id/baitaptuvung", async(req,res) =>{
+    try{
+        const user = await User.findById(req.params.id)
+        const tuvung = user.tuvung
+        let dethi = []
+        for(let i = 0; i < tuvung.length;i++){
+            dethi[i] = await Giaotrinh.findById(tuvung[i])
+        }
+        return res.status(200).json(dethi)
+    }catch(err){
+        return res.status(500).json(err)
+    }
+})
+
+// user add tu vung
+router.put("/:id/addbaitaptuvung", async(req,res) =>{
+    try{
+        const user = await User.findById(req.params.id)
+
+        if(!user.tuvung.includes(req.body.madethi))
+        {
+            await user.updateOne({
+                $push: {
+                    tuvung: req.body.magiaotrinh,
+                },
+            })
+            return res.status(200).json("Bạn đã lưu đề thi thành công")
+
+        } else {
+            return res.status(403).json("Đề thi này bạn đã lưu rồi")
+        }
+    }catch(err){
+        return res.status(500).json(err)
+    }
+})
+
 // Them cau lam sai cho user
 router.put("/:id/themcaulamsai", async(req,res) => {
     try{
@@ -135,6 +175,7 @@ router.put("/:id/themcaulamsai", async(req,res) => {
         return res.status(500).json(err)
     }
 })
+
 //User xóa câu làm sai
 router.put("/:id/xoacaulamsai", async(req,res) => {
     try{
@@ -198,6 +239,7 @@ router.put("/:id/deleteDethi", async(req,res) =>{
 
     }
 })
+
 //user xóa đề thi đã lưu , xóa danh sách người làm bên đề thi
 router.put("/:id/userXoadethi", async(req,res) => {
         try{
@@ -224,7 +266,86 @@ router.put("/:id/userXoadethi", async(req,res) => {
         } catch(err){
             return res.status(500).json(err)
         }
-
 })
+
+//user lam bai tu vung
+router.put("/:id/nopbaituvung", async (req, res) => {
+
+    try{
+        const user = await User.findById(req.params.id)
+        const giaotrinh = await Giaotrinh.findById(req.body.giaotrinh)
+
+        let nguoilam = {
+            iDnguoilam: user._id,
+            name : user.username,
+            cachdoc : req.body.cachdoc,
+            nghia : req.body.nghia,
+            vidu : req.body.vidu
+        }
+        let num = 0
+        let tuvungs = giaotrinh.tuvung
+        let tuvung = {}
+        for(let i = 0; i < tuvungs.length; i++){
+            if(tuvungs[i].id === req.body.id){
+                if(tuvungs[i].nguoilam.length === 0){
+                    tuvungs[i].nguoilam.push({
+                        iDnguoilam: user._id,
+                        name : user.username,
+                        cachdoc : req.body.cachdoc,
+                        nghia : req.body.nghia,
+                        vidu : req.body.vidu
+                    })
+
+                    await giaotrinh.updateOne({
+                        $set: {
+                          tuvung:tuvungs
+                        }
+                      })
+                      return res.status(200).json(" add moi thanh cong");
+                }else{
+                        for(let j = 0; j < tuvungs[i].nguoilam.length; j++){
+                            if(tuvungs[i].nguoilam[j].iDnguoilam.toString() ===  user._id.toString()){
+                                tuvungs[i].nguoilam[j] = {
+                                    iDnguoilam: user._id,
+                                    name : user.username,
+                                    cachdoc : req.body.cachdoc,
+                                    nghia : req.body.nghia,
+                                    vidu : req.body.vidu
+                                }
+                                num+=1
+                                await giaotrinh.updateOne({
+                                    $set: {
+                                      tuvung:tuvungs
+                                    }
+                                  })
+    
+                                return res.status(200).json(tuvungs);
+                            }
+                        }
+                        if(num < 1 ){
+                            tuvungs[i].nguoilam.push({
+                                iDnguoilam: user._id,
+                                name : user.username,
+                                cachdoc : req.body.cachdoc,
+                                nghia : req.body.nghia,
+                                vidu : req.body.vidu
+                            })
+                            await giaotrinh.updateOne({
+                                $set: {
+                                  tuvung:tuvungs
+                                }
+                              })
+
+                            return res.status(200).json(tuvungs);
+                        }
+                }
+            }
+        }
+          return res.status(200).json("thanh cong");
+
+    } catch (err) {
+      return res.status(500).json("saothe nhi nopbaituvung!" + err);
+    }
+  });
 
 module.exports = router

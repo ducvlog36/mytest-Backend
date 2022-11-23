@@ -50,7 +50,6 @@ try {
      })
  // 
  // console.log(tuvungAll[0]._id.$oid)
-  console.log(tuvung_n3.length)
 
   fs.writeFileSync('id.json',JSON.stringify(tuvung_n3),'utf8');
 

@@ -5,19 +5,23 @@ const TuvungSchema = new mongoose.Schema({
         type: Boolean,
         default: true,
     },
-    kanji:{
+    tuvung:{
         type: String,
         require: false,
     },
     cachDoc:{
-        type: String,
-        require: false,
+        type: Array,
+        default: []
     },
     hanViet:{
         type:String,
         require: false,
     },
-    explains:{
+    nghia:{
+        type: [],
+        require: true
+    },
+    vidu:{
         type: Array,
         default: []
     },
@@ -25,24 +29,20 @@ const TuvungSchema = new mongoose.Schema({
         type: String,
         require: false,
     },
-    wordDict:{
-        type: String,
-        require: false,
-    },
-    cachdoc : {
-        type: String,
-    },
-    hanviet: {
-        type: Array,
-    },
     capdo:{
         type: Array,
     },
     giaotrinh: {
         type: Array,
+    },
+    stt:{
+        type:Number,
+    },
+    userId :{
+        type: String,
     }
 },
 {timestamps: true}
 )
 
-module.exports = mongoose.model("tuvung_main", TuvungSchema)
+module.exports = mongoose.model("tuvung", TuvungSchema)

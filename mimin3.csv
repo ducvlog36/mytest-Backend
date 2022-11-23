@@ -1,0 +1,905 @@
+﻿stt,kanji,hanviet,hiragana,mean,vidu,dichvidu
+,男性,Nam tính,だんせい,Nam giới,理想の男性と結婚する,Kết hôn với người đàn ông lý tưởng
+,女性,Nữ tính,じょせい,Nữ giới,理想の女性と結婚する,Kết hôn với người phụ nữ lý tưởng
+,理想,Lý tưởng,りそう,Lý tưởng,,
+,高齢,Cao linh,こうれい,Cao tuổi,祖母は高齢だが、まだとても元気だ。,Bà tôi tuy tuổi đã cao nhưng rất khoẻ mạnh
+,年上,Niên thượng,としうえ,Hơn tuổi,彼女は私の三つ年上だ,Cô ấy hơn tôi 3 tuổi
+,目上,Mục thượng,めうえ,Người trên,目上の人には敬語で話したほうがいい,Đối với người bề trên nên nói chuyện bằng kính ngữ
+,敬語,Kính ngữ,けいご,Kính ngữ,,
+,先輩,Tiền bối,せんぱい,Tiền bối,田中さんと私は同じ年だが、職場では彼のほうが先輩だ。,Tanaka và tôi cùng tuổi nhưng ở công ty cậu ấy là tiền bối
+,後輩,Hậu bối,こうはい,Hậu bối,,
+,職場,Chức trường,しょくば,Nơi làm việc,,
+,上司,Thượng ty,じょうし,Cấp trên,上司に相談してから。決定する。,Tôi sẽ trao đổi với cấp trên rồi mới quyết định
+,決定,Quyết định,けってい,Quyết định,,
+,相手,Tương thủ,あいて,Đối tác,相手の目を見て話す。,Nhìn vào mắt người đối diện mà nói chuyện
+,就職,Tựu chức,しゅうしょく,Có việc làm,知り合いに息子の就職を頼む。,Nhờ người quen xin việc cho đứa con trai
+,友人,Hữu nhân,ゆうじん,Bạn thân,田中さんを知っていますか？ええ、学生時代の友人です。,"Bạn có biết anh Tanaka không? Có, là bạn thời học sinh của tôi"
+,時代,Thời đại,じだい,Thời đại,,
+,仲,Trọng,なか,Quan hệ,私は山本さんと仲がいい。,Tôi thân với anh Yamamoto
+,生年月日,Sinh Niên Nguyệt Nhật,せいねんがっぴ,Ngày tháng năm sinh,書類に生年月日を記入する。,Điền ngày tháng năm sinh vào tài liệu
+,誕生,Đản sinh,たんじょう,Ra đời,結婚2年目に子供が誕生した。,Đứa bé đã được sinh vào năm thứ 2 sau khi kết hôn
+,出身,Xuất thân,しゅっしん,Xuất thân,ご出身はどちらですか？私は東京の出身です。,Bạn đến từ đâu? Tôi đến từ Tokyo
+,命,Mệnh,いのち,"Số mệnh, cuộc sống",新しい命の誕生を祝う。,Cầu chúc sự ra đời của 1 sinh mệnh mới
+,計画,Kế hoạch,けいかく,Kế hoạch,年の初めに1年の計画を立てる。,Lập kế hoạch cho 1 năm vào đầu năm mới
+,故郷,Cố hương,こきょう,Quê hương,仕事が忙しくてもう何年も故郷に帰っていない。,"Vì công việc bận rộn ,nên nhiều năm chưa trở về quê hương"
+,事業,Sự nghiệp,じぎょう,Sự nghiệp,事業の成長,Tăng trưởng kinh doanh
+,喜ぶ,Hỉ,よろこぶ,Hạnh phúc,子供の成長を喜ぶ。,Vui mừng vì sự trưởng thành của đứa con
+,記入する,Kí nhập,きにゅうする,Nhập vào,,
+,立てる,Lập,たてる,Lập ( kế hoạch),,
+,頼む,Lại,たのむ,Nhờ vả,,
+,成長する,Thành trường,せいちょうする,Trưởng thành,経済が大きく成長した。,Nền kinh tế phát triển mạnh
+,成人する,Thành nhân,せいじんする,Người lớn,日本では二十歳以上の人を成人という。,Ở Nhật người ta gọi người trên 20 tuổi là người trưởng thành
+,合格する,Hợp cách,ごうかくする,Đỗ (kỳ thi),（大学／入学試験。。）に合格する。,Đỗ (kì thi đại học/ kì thi nhập học)
+,進学する,Tiến học,しんがくする,Đi học,子供の進学について考える。,Tôi suy nghĩ về việc học lên của đứa con
+,退学する,Thoái học,たいがくする,Bỏ học,退学の理由を説明する。,Trình bày lý do thôi học
+,就職する,Tựu chức,しゅうしょくする,Có việc làm,旅行会社に就職する。,Tôi sẽ làm việc ở công ty du lịch
+,介護,Giới hộ,かいご,Chăm sóc,母の介護のため、退職を決めた。,Tôi quyết định thôi việc để chăm sóc mẹ
+,決める,Quyết,きめる,Quyết định,,
+,退職する,Thoái chức,たいしょくする,Nghỉ việc,長年勤めた会社を退職した。,Tôi đã nghỉ việc ở công ty làm lâu năm
+,倒産する,Đảo sản,とうさんする,Phá sản,会社を倒産して、失業した。,Vì công ty phá sản nên tôi thất nghiệp
+,失業する,Thất nghiệp,しつぎょうする,Thất nghiệp,,
+,残業する,Tàn nghiệp,ざんぎょうする,Làm thêm giờ,残業が多くて疲れた。,Vì tăng ca nhiều nên mệt mỏi
+,疲れる,Bì,つかれる,Mệt,,
+,生活する,Sinh hoạt,せいかつする,Cuộc sống,健康的な生活を送る。,Sống cuộc sống khoẻ mạnh
+,通勤する,Thông cần,つうきんする,Đi làm,私は毎日１時間かけて通勤している。,Hàng ngày tôi mất một tiếng đi làm
+,学歴,Học lịch,がくれき,Bằng cấp,学歴が高くても、実力があるかどうかはわからない。,Cho dù bằng cấp cao nhưng thực lực thì không biết thế nào
+,実力,Thực lực,じつりょく,Thực lực,会社から給料をもらう。,Nhận lương từ công ty
+,給料,Cấp liệu,きゅうりょう,Lương,,
+,面接する,Diện tiếp,めんせつする,Phỏng vấn,今日会社の人と面接がある。,Hôm nay có buổi phỏng vấn với người trong công ty
+,休憩する,Hưu khế,きゅうけいする,Nghỉ giải lao,ではここで、10分間の休憩です。,"""Thế thì,nghỉ giải lao từ 10 phút từ bây giờ"""
+,観光する,Quan quang,かんこうする,Thăm quan,来日の目的は観光です。,Mục đích đến Nhật Bản là du lịch
+,帰国する,Quy quốc,きこくする,Về nước,今度の正月には帰国するつもりだ。,Dịp tết lần này tôi dự định về nước
+,帰省する,Quy tỉnh,きせいする,Về quê,お盆にはふるさとに帰省する日本人が多い。,Vào dịp lễ Obon rất nhiều người Nhật về quê nhà
+,帰宅する,Quy trạch,きたくする,Về nhà,毎日忙しくて帰宅が遅い。,Hàng ngày tôi bận nên về nhà muộn
+,参加する,Tham gia,さんかする,Tham gia,ボランティア活動に参加する。,Tham gia hoạt động tình nguyện
+,活動,Hoạt động,かつどう,Hoạt động,,
+,出席する,Xuất tịch,しゅっせきする,Tham gia,ミーティングに出席する。,Tham dự cuộc họp
+,欠席する,Khuyết tịch,けっせきする,Không tham gia,授業を欠席する。,Vắng mặt buổi họp
+,寝坊,Tẩm phường,ねぼう,Ngủ quên,寝坊して授業に遅刻する。,Vì ngủ quên nên đến lớp trễ
+,遅刻する,Trì khắc,ちこくする,Đến muộn,面接では1分の遅刻も許されない。,Tại buổi phỏng vấn trễ 1 phút cũng không được
+,化粧する,Hóa trang,けしょうする,Trang điểm,あなたは毎日、お化粧に何分ぐらいかけていますか？,Bạn mất nao nhiêu phút để trang điểm mỗi ngày
+,苦手,Khổ thủ,にがて,Kém,私は計算が苦手だ。,Tôi không giỏi tính toán
+,計算する,Kế toán,けいさんする,Tính toán,旅行にいくらかかるか計算する。,Tính toán xem chi phí du lịch tiêu tốn bao nhiêu
+,計画する,Kế hoạch,けいかくする,Kế hoạch,来年の計画を立てる。,Lập kế hoạch cho năm tới
+,成功する,Thành công,せいこうする,Thành công,実験に成功する。,Thí nghiệm thành công
+,失敗する,Thất bại,しっぱいする,Thất bại,このパソコンを買ったのは失敗だった。,Việc mua cái máy tính này là thất bại
+,実験,Thực nghiệm,じっけん,Thực nghiệm,実験の失敗で、計画は中止になった。,Vì thí nghiệm thất bại nên kế hoạch phải dừng lại
+,準備する,Chuẩn bị,じゅんびする,Chuẩn bị,引っ越しの準備が終わった。,Việc chuẩn bị chuyển nhà đã xong
+,整理する,Chỉnh lý,せいりする,Sắp xếp,勉強の前に机の上に整理する。,Dọn dẹp mọi thứ trên bàn trước khi học bài
+,書類,Thư loại,しょるい,Giấy tờ,,
+,品,Phẩm,しな,Hàng hóa,注文の品が届く。,Sản phẩm đặt hàng sẽ được gửi đến
+,届く,Giới,とどく,Đến nơi,,
+,注文する,Chú văn,ちゅうもんする,Đặt hàng gọi món,喫茶店でコーヒーを注文する。,Gọi cà phê tại quán giải khát
+,貯金する,Trữ kim,ちょきんする,Tiết kiệm,銀行にボーナスを貯金する。,Gửi tiết kiệm số tiền thưởng vào ngân hàng
+,増える,Tăng,ふえる,Tăng,貯金が増える。,Tiền tiết kiệm gia tăng
+,徹夜する,Triệt dạ,てつやする,Thức xuyên đêm,徹夜で勉強する。,Học suốt đêm không ngủ
+,身長,Thân trường,しんちょう,Chiều cao,身長を測る。,Đo chiều cao cơ thể
+,体重,Thể trọng,たいじゅう,Cân nặng,体重を測る。,Đo cân nặng cơ thể
+,怪我,Quái ngã,けが,Bị thương,転んで足に怪我をした。,Bị thương ở chân do té ngã
+,趣味,Thú vị,しゅみ,Sở thích,彼女はいつも趣味のいい服を着ている。,Cô ấy lúc nào cũng mặc quần áo hợp thời trang
+,読書,Độc thư,どくしょ,Đọc sách,趣味は読書です。,Sở thích là đọc sách
+,興味,Hưng vị,きょうみ,Hứng thú,小さい子供は何にでも興味を持つ。,Trẻ nhỏ có hứng thú với tất cả mọi thứ
+,歴史,Lịch sử,れきし,Lịch sử,私は歴史に興味がある。,Tôi có hứng thú với lịch sử
+,思い出,Tư xuất,おもいで,Hồi ức,子供の頃の思い出。,Kỉ niệm thời thơ ấu
+,冗談,Nhũng đàm,じょうだん,Đùa cợt,冗談を言ったら、みんなが本気にした。,Tôi nói đùa mà mọi người xem là thật
+,本気,Bản khí,ほんき,Sự thật,,
+,目的,Mục đích,もくてき,Mục đích,日本に来た目的は大学への入学だ。,Mục đích tôi đền Nhật Bản là vào đại học
+,約束する,Ước thúc,やくそくする,Lời hứa,約束の時間に間に合うかどうか心配だ。,Tôi lo lắng về việc liệu tôi có thể kịp thời gian cuộc hẹn hay không?
+,おしゃべりする,,,Nói chuyện,授業中に隣の人とおしゃべりしていて、先生に怒られた。,Vì tôi đã nói chuyện suốt với bạn bên cạnh nên giáo viên đã nổi giận
+,怒る,Nộ,おこる,Tức giận,,
+,遠慮する,Viễn lự,えんりょ,Ngại ngần,遠慮しないで食べて下さい。,"""Ăn đi,đừng khách sáo"""
+,我慢する,Ngã mạn,がまんする,Chịu đựng,痛くても我慢する。,Dù đau nhưng vẫn chịu đựng
+,迷惑する,Mê hoặc,めいわくする,Làm phiền,人に迷惑をかけてはいけない。,Không được làm phiền người khác
+,捨てる,Vứt,すてる,Vứt,最後まで希望を捨ててはいけない。,Không được từ bỏ hi vọng khi chưa kết thúc
+,希望,Hi vọng,きぼう,Hi vọng,私はふるさとでの就職を希望している。,Tôi hi vọng tìm được việc ở quê nhà
+,夢,Mộng,ゆめ,"Giấc mơ, ước mơ",あなたの将来の夢はなんですか？,Ước mơ tương lai của bạn là gì?
+,怖い,Bố trong khủng bố,こわい,Đáng sợ,昨日、怖い夢を見た。,"Hôm qua,tôi đã gặp ác mộng"
+,賛成する,Tán thành,さんせいする,Tán thành,私はその（提案／意見）に（賛成だ／賛成する）。,Tôi đồng ý với( đề án/ ý kiến) đó
+,挙げる,Cử,あげる,Giơ tay,賛成の人は手を挙げて下さい。,"""Ai tán thành thì giơ tay"""
+,反対する,Phản đối,はんたいする,Phản đối,彼の意見には反対だ。,Tôi phản đối ý kiến của anh ấy
+,想像する,Tưởng tượng,そうぞう,Tưởng tượng,100年後の未来を想像する。,Tưởng tượng về tương lai 100 năm sau
+,現実,Hiện thực,げんじつ,"Hiện thực, sự thật",想像と現実は違う。,Tưởng tượng và thực tế khác nhau
+,努力する,Nỗ lực,どりょくする,Nỗ lực,一生懸命、努力をする。,Cố gắng hết sức
+,太陽,Thái dương,たいよう,Mặt trời,太陽が昇って、暖かくなった。,"Mặt trời lên,thời tiết trở nên ấm áp"
+,昇る,Thăng,のぼる,"Lên cao, tăng lên",,
+,地球,Địa cầu,ちきゅう,Trái đất,地球の環境が悪化している。,Môi trường của trái đất ngày càng xấu đi
+,環境,Hoàn cảnh,かんきょう,Môi trường,,
+,温度,Ôn độ,おんど,Nhiệt độ,温度を測る。,Đo nhiệt độ
+,湿度,Thấp độ,しつど,Độ ẩm,今年の夏は特に湿度が高い。,Hè năm nay độ ẩm cao một cách bất thường
+,湿気,Thấp khí,しっけ,Hơi ẩm không khí ẩm thấp,日本の夏は湿気が多い。,Mùa hè ở Nhật bản rất ẩm ướt
+,梅雨,Mai vũ,つゆ,Mùa mưa,6月から7月は梅雨の時期だ。,Từ tháng 6 đến tháng 7 là mùa mưa
+,黴,mi,かび,Nấm mốc,梅雨の時期は黴がはえやすい。,Mùa mưa nấm mốc dễ phát triển
+,時期,Thời kì,じき,Thời kì,,
+,暖房,Noãn phòng,だんぼう,Thiết bị làm ấm,寒いので、暖房をつける。,Bởi vì trời lạnh nên bật máy sưởi ấm
+,皮,Bì,かわ,"Vỏ, da",りんごの皮をむいて食べる。,Gọt vỏ táo rồi ăn
+,画面,Họa diện,がめん,Màn hình,パソコンの画面をずっと見ていると、目が疲れる。,Cứ nhìn suốt vào màn hình máy tính thì sẽ mỏi nắt
+,番組,Phiên tổ,ばんぐみ,Chương trình,テレビの番組を見る。,Xem chương trình tivi
+,記事,Kí sự,きじ,Kí sự phóng sự,この記事のよると、日本に住む外国人が増えているそうだ。,"Theo bài viết này,nghe nói người nước ngoài đang sống ở Nhật đang gia tăng"
+,近所,Cận sở,きんじょ,"Hàng xóm, xung quanh",近所の人とは仲良くしてほうがいい。,Nên tạo mối quan hệ tốt với hàng xóm
+,盗む,Đạo,ぬすむ,Ăn trộm,自転車を盗まれたので、警察に届けた。,Vì bị lấy mất xe đạp nên tôi đến cảnh sát trình bày
+,警官,Cảnh quan,けいかん,Cảnh sát,,
+,犯人,Phạm nhân,はんにん,Tội phạm,犯人をつかまえる。,Bắt giữ tội phạm
+,小銭,Tiểu tiền,こぜに,Tiền lẻ,バスに乗ってから、小銭がないことに気がつき、とても困った。,"Sau khi lên xe bus tôi mới nhận ra là mình không có tiền lẻ,thật sự éo le"
+,お祝う,Chúc,おいわう,Chúc mừng,家族みんなでごちそうを食べて、祖父の誕生日を祝った。,Mọi người trong gia đình cùng ăn tiệc và chúc mừng sinh nhật của ông
+,ご馳走,trì tẩu,ごちそう,Chiêu đãi,昨日は先輩にご馳走になった。,Hôm qua tôi đã được tiền bối chiêu đãi
+,作者,Tác giả,さくしゃ,Tác giả,（小説／詩／絵。。）の作者。,Tác giả của (tiểu thuyết/thơ/tranh..)
+,作品,Tác phẩm,さくひん,Tác phẩm,学生の作品をロビーに展示する。,Trưng bày tác phẩm của học sinh ở sảnh
+,展示,Triển kì,てんじ,Trưng bày,,
+,制服,Chế phục,せいふく,Đồng phục,日本の中学生には制服のある学校が多い。,Nhiều trường trung học ở Nhật Bản có đồng phục
+,食器,Thực khí,しょっき,Bát đĩa,洗剤で食器を洗う。,Rửa chén bát bằng nước rửa chén
+,洗剤,Tẩy tễ,せんざい,Chất tẩy rửa xà bông bột bột làm bánh,,
+,底,Để,そこ,Đáy,靴の底に穴があく。,Thủng lỗ ở đế giày
+,進む,Tiến,すすむ,Tiến lên/triển/bộ,大都市は地下の開発が進んでいる。,Đô thị lớn đang phát triển tầng hầm dưới mặt đất
+,開発,Khai phát,かいはつ,Phát triển,,
+,都市,Đô thị,とし,Thành phố,,
+,寺,Tự,てら,Chùa,寺に参ります。,Đi thăm đền thờ
+,道路,Đạo lộ,どうろ,Con đường,日本では、車は道路の左側を走る。,"Ở Nhật, ô tô chạy phía bên trái con đường"
+,坂,Phản,さか,Dốc,坂を登る。,Leo lên dốc
+,煙,Yên,けむり,Khói,たばこの煙は体に悪い。,Khói thuốc lá có hại cho sức khoẻ
+,逃げる,Đào,にげる,"Bỏ chạy, tẩu thoát",火事の時は煙に注意して逃げてくだない。,"Khi có hoả hoạn,hãy cẩn thận với khói và trốn thoát"
+,火事,Hỏa sự,かじ,Hỏa hoạn,,
+,灰,Hôi,はい,Tro tàn,紙が燃えて灰になる。,Giấy cháy thành tro
+,判,Phán,はん,Con dấu,書類に判を押す。,Đóng dấu vào tài liệu
+,名刺,Danh thích,めいし,Danh thiếp,パーティーで会った人に名刺を配った。,Tôi trao danh thiếp cho những người đã gặp ở bữa tiệc
+,交換,Giao hoán,こうかん,Trao đổi,名刺を交換する。,Trao đổi danh thiếp
+,免許,Miễn hứa,めんきょ,Giấy phép,レストランを開くには調理師の免許が必要だ。,Để mở nhà hàng cần có chứng chỉ đầu bếp
+,必要（な）,Tất yếu,ひつよう,Cần thiết,,
+,調理師,Điều lý sư,ちょうりし,Đầu bếp,,
+,多く,Đa,おおく,Nhiều,オリンピックには多くの国が参加した。,Nhiều quốc gia đã tham gia Thế vận hội
+,前半,Tiền bán,ぜんはん,Phần đầu,映画の前半はたいくつだったが、後半は面白かった。,Phần đầu phim chán lắm nhưng phần sau thì thú vị
+,後半,Hậu bán,こうはん,Phần sau,,
+,退屈,Thoái khuất,たいくつ,"Buồn tẻ, chán ngắt",,
+,最高,Tối cao,さいこう,Cao nhất,この店は昨日、開店以来最高の売り上げを記録した。,Hôm qua cửa hàng đã đạt kỉ lục doanh thu cao nhất từ khi mở cửa hàng đến nay
+,最低,Tối đê,さいてい,Thấp nhất,クラスで最低の点を取ってしまった。,Tôi bị điểm thấp nhất lớp
+,最初,Tối sơ,さいしょ,Đầu tiên,最初にひらがなを、次にカタカナを勉強した。,Đầu tiên tôi học hiragana và sau đó học katakana
+,最後,Tối hậu,さいご,Cuối cùng,最後の出勤日に花束をもらった。,Tôi đã nhận được một bó hoa vào ngày làm việc cuối cùng
+,花束,Hoa thúc,はなたば,Bó hoa,,
+,自動,Tự động,じどう,Tự động,このドアは自動だから、手で開けなくてもいい。,Cửa này là tự động nên không cần phải mở bằng tay
+,種類,Chủng loại,しゅるい,Chủng loại,公園にはいろいろな種類の花がある。,Trong công viên có rất nhiều loại hoa
+,性格,Tính cách,せいかく,Tính cách tâm trạng trạng thái tính tình,あの人は性格がいいので、みんなに好かれている。,Người ấy có tính cách tốt nên được mọi người yêu quý
+,性質,Tính chất,せいしつ,Tính chất,人は持って生まれた性質をなかなか変えられない。,Con người khó mà thay đổi bản chất có được từ khi mới sinh ra
+,布,Bố,ぬの,Vải vải bố vải vóc,この布は燃えにくい性質を持っている。,Vải này có tính chất chống cháy
+,順番,Thuận phiên,じゅんばん,Thứ tự,発表の順番を決める。,Quyết định thứ tự thuyết trình
+,発表,Phát biểu,はっぴょう,Phát biểu,,
+,商品,Thương phẩm,しょうひん,Phần thưởng hàng sản phẩm,大きい商品から順番に並べる。,Xếp lần lượt theo thứ tự từ những hàng hoá lớn đến bé
+,番,Phiên,ばん,Lượt,次は私の番です。,Tiếp theo đến lượt của tôi
+,方法,Phương pháp,ほうほう,Phương pháp,いい方法を探す。,Tìm kiếm phương pháp hiệu quả
+,検査,Kiểm tra,ちょうさ,Kiểm tra,完成した製品を検査する。,Kiểm tra sản phẩm đã hoàn thành
+,完成,Hoàn thành,かんせい,Hoàn thành,,
+,製品,Chế phẩm,せいひん,"Sản phẩm, thành phẩm",,
+,値上がり,Trị thượng,ねあがり,sự Tăng giá giá tăng,石油が値上がりする。,Giá dầu tăng
+,生,Sinh,なま,"Tươi, mới (chưa chế biến)",肉を生で食べる。,Ăn thịt sống
+,渇く,Khát,かわく,Khát,のどが渇いた。,Khát nước
+,嗅ぐ,Khứu,かぐ,Ngửi,匂いを嗅ぐ。,Ngửi thấy mùi
+,叩く,Khấu,たたく,"Vỗ, đánh, gõ",隣の人の肩を叩く。,Vỗ vai người bên cạnh
+,お尻,Khào,おしり,Mông,子供のお尻を叩く。,Đánh vào mông đứa trẻ
+,殴る,Ẩu,なぐる,Đánh,教師が生徒を殴って、問題になっている。,Đang có vấn đề bởi giáo viên đánh học sinh
+,蹴る,Xúc,ける,Đá,ボールを蹴る。,Đá bóng
+,抱く,Bão,だく,Ôm,恋人の肩を抱く。,Ôm lấy bờ vai của người yêu
+,両手,Lưỡng thủ,りょうて,Hai tay,子供を両手でしっかりと抱く。,Bế đứa bé bằng 2 tay một cách cẩn thận
+,台風,Đài phong,たいふう,Bão,台風で木が倒れた。,Do bão nên cây đổ
+,倒れる,Đảo,たおれる,Bị gãy/đổ/rơi,父は働きすぎて倒れてしまった。,Vì bố tôi làm việc quá nhiều nên đã ngã bệnh
+,倒す,Đảo,たおす,"Chặt đổ, quật ngã",花びんを倒して割ってしまった。,Tôi làm đổ bình hoa và nó vỡ mất rồi
+,起きる,Khởi,おきる,Thức dậy,父は毎晩遅くまで起きているようだ。,Hình như đêm nào bố cũng thức khuya
+,起こす,Khởi,おこす,Đánh thức,うちの子は朝起こしてもなかなか起きない。,Bọn trẻ nhà tôi sáng có đánh thức chúng thì mãi cũng không dậy ngay
+,尋ねる,Tầm,たずねる,"Hỏi, thăm hỏi thăm viếng",交番で警官に市役所までの道を尋ねた。,Tôi đã hỏi cảnh sát đường đến toà thị chính tại bốt cảnh sát
+,呼ぶ,Hô,よぶ,Gọi,”名前を呼ばれたら、返事をして下さい”,Vui lòng trả lời khi được gọi tên
+,叫ぶ,Khiếu,さけぶ,"Gào, hét, rú lên",大声で叫んだが、相手は気づかずに行ってしまった。,Dù đã gào thét lớn tiếng nhưng đối phương vẫn đi mất mà không hề biết gì
+,黙る,Mặc,だまる,Im lặng,先生が質問したが、誰も答えないで黙っている。,Thầy giáo đã đặt câu hỏi nhưng tất cả mọi người đều im lặng không trả lời
+,飼う,Tự,かう,Nuôi,何かペットを飼いたいと思っている。,Tôi muốn nuôi một con vật nào đó
+,数える,Số,かぞえる,Đếm,”椅子がいくつあるか、数えてください”,"""Hãy đếm xem có bao nhiêu cái ghế"""
+,数,Số,かず,Số,数を数える,Đếm số
+,乾く,Can,かわく,Khô,風が強かったので、外に干した洗濯物はすぐに乾いた。,Gió mạnh nên đồ phơi ở ngoài nhanh khô
+,乾かす,Can,かわかす,Làm khô,ドライヤーでぬれたか髪を乾かした。,Tôi sấy tóc ướt bằng máy sấy
+,濡れる,Nhu,ぬれる,Ướt,,
+,畳む,Điệp,たたむ,"Gấp, gập, xếp",傘を畳んでバッグに入れる。,Gập ô rồi cho vào túi
+,畳,Điệp,じょう,Cái chiếu,,
+,誘う,Dụ,さそう,"Mời , rủ",友達を誘って映画を見に行った。,Tôi đã rủ bạn đi xem phim
+,奢る,Xa,おごる,"Chiêu đãi, khao",昨日は後輩に焼肉を奢った。,Hôm qua tôi đã khao đàn em một bữa thịt nướng
+,預かる,Dự,あずかる,"Chăm sóc, trông nom",旅行に行く友達から犬を預かることになった。,Tôi sẽ chăm sóc chú chó từ người bạn đi du lịch
+,預ける,Dự,あずける,"Giao cho, gửi",銀行にお金を預けると、利子がつく。,Gửi tiền vào ngân hàng sẽ sinh lãi
+,決まる,Quyết,きまる,Bị quyết định,帰国の日が決まった。,Ngày về nước đã được quyết định
+,決める,Quyết,きめる,Quyết định,”進学か就職か早く決めたほうがいいですよ。,"""Nên quyết định sớm học lên hay đi làm"""
+,写る,Tả,うつる,Được chụp,このカメラは暗いところでもよく写る。,Chiếc máy ảnh này chụp tốt cả những nơi tối
+,写す,Tả,うつす,Chụp lại,素晴らしい風景を写真に写した。,Đã chụp một bức hình về một cảnh quan tuyệt vời
+,思い出す,Tư xuất,おもいだす,Nhớ nhung,毎年春になると、高校の入学式を思い出します。,"Mỗi năm khi mùa xuân đến,tôi lại hồi tưởng về buổi lễ nhập học THPT"
+,教わる,Giáo,おそわる,Được dạy,この料理の作り方は母から教わりました。,Cách làm món ăn này tôi đã được mẹ dạy
+,申し込む,Thân nhập,もうしこむ,Đăng kí,パーティーに参加を申し込む。,Đăng ký tham gia bữa tiệc
+,断る,Đoạn,ことわる,Từ chối,頼まれた仕事を断った。,Tôi đã từ chối công việc được nhờ vả
+,指輪,Chỉ luân,ゆびわ,Nhẫn,なくなったと思っていた指輪が、ソファーの下で見つかった。,Đã tìm thấy chiếc nhẫn cứ ngỡ đã mất ở dưới ghế sofa
+,見つかる,Kiến,みつかる,Được tìm thấy,高校生の時、たばこを吸っていたら先生に見つかって怒られた。,"Hồi học THPT,đang hút thuốc thì bị giáo viên bắt gặp và nổi giận"
+,見つける,Kiến,みつける,Tìm thấy,なくなったと思っていた指輪を、ソファーの下で見つかった。,Đã tìm ra chiếc nhẫn cứ ngỡ đã mất ở dưới ghế sofa
+,捕まる,Bộ,つかまる,"Bị bắt, bị tóm",犯人が警察に捕まった。,Phạm nhân đã bị cảnh sát bắt giữ
+,捕まえる,Bộ,つかまえる,Đi bắt,警察が泥棒を捕まえた。,Cảnh sát đã tóm lấy tên trộm
+,乗る,Thừa,のる,Lên,毎朝、電車に乗って学校に通っている。,Sáng nào tôi cũng lên tàu điện đến trường
+,乗せる,Thừa,のせる,"Cho lên, xếp lên",子供を車に乗せて、学校まで送って行った。,Cho bọn trẻ lên xe rồi đưa đến trường
+,下りる/降りる,Hạ/ Giáng,おりる,Xuống,電車を降りる／　階段を下りる。,Xuống tàu điện/ Xuống cầu thang
+,下ろす、降ろす,Hạ/ Giáng,おろす,Cho xuống,”あの銀行の前で降ろしてください”,"""Hãy cho tôi xuống trước ngân hàng kia"""
+,直る,Trực,なおる,"Được sửa, sửa chữa",壊れたパソコンが直った。,Máy tính cá nhân bị hỏng đã được sửa
+,直す,Trực,なおす,Sửa xong,壊れた時計を直す。,Sửa dồng hồ bị hỏng
+,治る,Trị,なおる,Khôi phục,なかなか頭痛が治らない。,Mãi mà không khỏi đau đầu
+,治す,Trị,なおす,Chữa trị,”よく休んで早くかぜを治してください”,"""HÃy nghỉ ngơi thư thái cho nhanh khỏi cảm nhé"""
+,亡くなる,Vong,なくなる,Chết,社長が90歳で亡くなった。,Giám đốc đã mất vào năm 90 tuổi
+,亡くす,Vong,なくす,Mất,彼は子供の時、父親を亡くした。,Anh ấy đã mất bố khi còn nhỏ
+,父親,Phụ thân,ちちおや,Cha mẹ,,
+,生まれる,Sinh,うまれる,Được sinh ra,先月子供が生まれた。,Đứa trẻ được sinh ra vào tháng trước
+,産む,Sản,うむ,"Sinh, đẻ",にわとりが卵を産む。,Gà đẻ trứng
+,先日,Tiên nhật,せんじつ,Mấy ngày trước,妻が先日元気な女の子を産んだ。,"Cách đây vài ngày,vợ tôi đã sinh ra một bé gái khoẻ mạnh"
+,出会う,Xuất hội,であう,Gặp gỡ ngẫu nhiên,駅で偶然大学時代の友人に出会った。,"Ở nhà ga,tôi tình cờ gặp người bạn thời đại học"
+,訪ねる,Phỏng,たずねる,"Thăm, ghé thăm",友人の家を訪ねた。,Đến thăm nhà bạn
+,付き合う,Phó hợp,つきあう,Hẹn hò,隣の家の人と親しく付き合っている。,Giữ mối quan hệ thân thiết với nhà bên cạnh
+,効く,Hiệu,きく,Hiệu quả,クーラーが効いていないのか、この部屋はとても暑い。,"Điều hoà chạy không hiệu quả sao ấy,phòng này nóng quá"
+,頭痛,Đầu thống,ずつう,Đau đầu cơn đau đầu,この薬は頭痛によく効く。,Thuốc này rất hiệu quả cho người bị đau đầu
+,流行する,Lưu hành,りゅうこうする,Lưu hành sự thịnh hành,この冬は赤い色が流行している。,Mùa đông này màu đỏ đang được thịnh hành
+,経つ,Kinh,たつ,Trải qua đã qua trải qua,日本へ来たから10年が経った。,Đã đến Nhật được 10 năm rồi
+,間に合う,Gian hợp,まにあう,Kịp giờ,電車に遅れたが、駅から走った、なんとか授業に間に合った。,"Xe điện đến muộn,nhưng mà chạy từ ga nên vừa kịp giờ học"
+,間に合わせる,Gian hợp,まにあわせる,Đúng giờ,レポートを頑張って締め切りに間に合わせた。,Tôi đã cố gắng hoàn thành bản báo cáo đúng thời hạn
+,通う,Thông,かよう,Đi đi về về qua lại,毎週ピアノのレッスンに通っている,"Hàng tuần,tôi dều đi học Piano"
+,込む,Nhập,こむ,"Đông, tắc",（電車／店／道。。）が込む。,(Xe điện/ Cửa hàng/Đường..) đông đúc
+,すれ違う,Vi,すれちがう,"Vượt qua, lướt qua không hiểu ý không đồng ý",この道は狭いので自動車がすれ違うのは大変だ。,Con đường này hẹp nên ô tô ngược hướng khó đi ngang qua nhau
+,動く,Động,うごく,Bị chuyển động,”写真を撮るから動かないでください”,"""Tôi sẽ chụp ảnh nên đừng cử động"""
+,動かす,Động,うごかす,Di chuyển lăn vận hành chỉ huy binh lính nhân viên,ひどい怪我をして、体を動かすことも出来ない。,Bị thương rất nặng nên việc cử dộng cơ thể cũng không thể làm được
+,離れる,Ly,はなれる,Tách rời chia li từ giã,”危ないから、ストーブから離れて遊びんさい”,"""Vì nguy hiểm nên hãy chơi tránh xa khu việc lò sưởi ra"""
+,離す,Ly,はなす,"Để xa ra, làm tránh ra",テストの時は机を離して並べる。,Khi kiểm tra thì xếp bàn cách xa nhau
+,ぶつかる,,,Bị đâm,道で自転車にぶつかって怪我をした。,Tôi bị thương bởi va chạm với chiếc xe đạp bên đường
+,ぶつける,,,Đâm vào,運転していて、車を電柱にぶつけてしまった。,Đang lái xe thì ô tô tông chạm mạnh vào cột điện
+,涙,Lệ,なみだ,Nước mắt châu lệ nước mắt,悔しくて涙が溢れた。,Ức chế quá nên nước mắt cú tuân trào
+,溢れる,Dật,こぼれる,Tràn ra ngập tràn đầy,手がふるえてお茶が溢れてしまった。,Tay run rẩy nên nước trà tràn ra ngoài
+,溢す,Dật,こぼす,Làm tràn ra,コップを倒して水を溢してしまった。,Làm đổ cốc nên nước tràn ra ngoài
+,拭く,Thức,ふく,"Lau, chùi, gạt",ふきんでテーブルの上を拭く。,Lau mặt bàn bằng khăn chùi
+,片付く,Phiến phó,かたづく,Ngăn nắp,大掃除をして、やっと部屋が片付いた。,"Sau khi tổng vệ sinh,cuối cùng căn phòng cũng được dọn dẹp"
+,片付ける,Phiến phó,かたづける,Dọn dẹp,洗った食器を食器棚に片付ける。,Sắp đặt bát đĩa đã rửa sạch lên tủ chén
+,包む,Bao,つつむ,Bọc,プレゼントをきれいな紙で包む。,Gói quà bằng giấy đẹp
+,貼る,Thiếp,はる,Dán,壁にポスターを貼る。,Dán áp phích lên tường
+,無くなる,Vô,なくなる,Bị mất,部屋の鍵が無くなってしまった。,Chìa khoá căn phòng đã bị mất rồi
+,無くす,Vô,なくす,Làm mất,パスポートを無くして困っている。,Tôi đã làm mất hộ chiếu nên giờ không biết phải làm sao nữa đây
+,足りる,Túc,たりる,Đủ,今日の試験は難しくて、時間が足りなかった。,Bài kiểm tra hôm nay khó nên không đủ thời gian
+,収入,Thu nhập,しゅうにゅう,Thu nhập,この収入では生活するのに全然足りない。,Với thu nhập này thì hoàn toàn không đủ sống
+,残る,Tàn,のこる,"Còn lại, sót lại",料理を作りすぎて、たくさん残ってしまった。,Làm quá nhiều đồ ăn nên vẫn còn lại khá nhiều
+,残す,Tàn,のこす,"Thừa lại, sót lại",ご飯を残してしまった。,Tôi đã để thừa cơm
+,腐る,Hủ,くさる,"Ôi, thiu",腐ったものを食べて、おなかを壊してしまった。,Ăn phải đồ thiu nên bị đau bụng mất tiêu rồi
+,剥ける,Bác,むける,"Bóc, gọt",海で日焼けをして、背中の皮を剥けた。,Da ở lưng bị bong tróc do bị cháy nắng ở biển
+,剥く,Bác,むく,"Bóc, gọt",果物の皮を剥く。,Gọt vỏ trái cây
+,滑る,Hoạt,すべる,Trượt,新しいスケート場はきれいで、楽しく滑ることはできた。,"Sân trượt băng mới thạt sạch đẹp,nên cso thể trượt băng vui vẻ"
+,雪,Tuyết,ゆき,Tuyết,昨日降った雪が積もっている。,Tuyết rơi vào hôm qua đang chất đống lại
+,積もる,Tích,つもる,Chất đống,全然掃除をしていないので、ほこりが積もっている。,Bởi vì không lau chùi nên bụi tích tụ nhiều
+,積む,Tích,つむ,"Để lên, chất lên",机の上に本がたくさん積んである。,Có rất nhiều sách chồng chất lên nhau trên bàn làm việc
+,空く,Không,あく,"Trống rỗng, vắng vẻ rỗi rãi",靴下に穴が空いてしまった。,Có lỗ hổng ở tất
+,空ける,Không,あける,Giữ chỗ,電車でお年寄りのために席を空けた。,Đã dành chỗ trống cho người lớn tuổi trên tàu điện
+,下がる,Hạ,さがる,Giảm giá xuống,（熱／温度／値段。。）が下がる。,Hạ sốt/ Nhiệt độ giảm/ giá giảm
+,下げる,Hạ,さげる,Hạ xuống,（熱／温度／値段。。）を下げる。,Hạ sốt/ hạ nhiệt dộ/ hạ giá..
+,冷える,Lãnh,ひえる,"Lạnh, cóng",寒いところに長くいたので、手足が冷えてしまった。,Ở chỗ lạnh lâu nên chân tay lạnh ngắt luôn rồi
+,冷やす,Lãnh,ひやす,Làm lạnh,この果物は冷やして食べたほうが美味しい。,Trái cây này thì làm mát ăn sẽ ngon hơn
+,冷める,Lãnh,さめる,Nguội,この料理は冷めると美味しくない。,Món ăn này mà nguội đi sẽ không ngon
+,冷ます,Lãnh,さます,Làm nguội,お風呂のお湯が熱くなりすぎた。少し冷ましてから入ろう。,Nước nóng trong bồn tắm nóng quá.Hãy để nguội 1 chút rồi vào tắm
+,燃える,Nhiên,もえる,Cháy,（火／紙。。）が燃える。,(Lửa/giấy..)cháy
+,燃やす,Nhiên,もやす,Đốt cháy,（火／紙。。）を燃やす。,Đốt lửa/đốt giấy
+,沸く,Phí,わく,Nước sôi,（湯／風呂。。）が沸く。,Nước sôi/ Bồn tắm sẵn sàng
+,沸かす,phí,わかす,Đun sôi,（湯／風呂。。）を沸かす。,Đun sôi nước/ Chuẩn bị bồn tắm
+,お湯,Thang,おゆ,Nước nóng/sôi,,
+,鳴る,Minh,なる,Kêu,雷が鳴っている。,Tiếng sấm vang vọng
+,鳴らす,Minh,ならす,Làm cho kêu,ブザーを鳴らす。,Bấm chuông điện
+,役に立つ,Dịch lập,やくにたつ,Có tác dụng,インターネットの情報は勉強や仕事に役に立つ。,Thông tin trên internet rất hữu ích cho học tập cũng như công việc
+,役に立てる,Dịch lập,やくにたてる,"Có tác dụng, có ích",インターネットの情報を勉強や仕事に役立てる。,Sử dụng thông tin trên internet để giúp ích cho học tập cũng như công việc
+,飾る,Sức,かざる,Trang trí tô điểm,クリスマスの飾りを買った。,Tôi đã mua đồ trang trí Giáng sinh
+,遊ぶ,Du,あそぶ,Chơi,かくれんぼは子供の遊びだ。,Trốn tìm là trò chơi của những đứa trẻ
+,集まる,Tập,あつまる,Sưu tập,明日マンションの住人の集まりがある。,"Ngày mai,sẽ có buổi họp mặt những người sống ở chung cư"
+,踊る,Dũng,おどる,Nhảy,留学生が各国の踊りを踊った。,Du học sinh nhảy múa điệu nhảy của các nước
+,思う,Tư,おもう,Suy nghĩ,あの人に私の思いが届いた。,Tình cảm cuả tôi đã truyền trai đến người ấy
+,考える,Khảo,かんがえる,Nghĩ,私にいい考えがある。,Tôi có ý tưởng tốt
+,手伝う,Thủ truyền,てつだう,Giúp đỡ,引っ越しの手伝いをする。,Giúp chuyển nhà
+,働く,Động,はたらく,Hoạt động lao động làm lụng,血液の働きの一つは体に栄養を運ぶことだ。,Một trong những chức năng của máu là vận chuyển dinh dưỡng cho cơ thể
+,決まる,Quyết,きまる,"Luật lệ, quy định",学校で新しい決まりが作られた。,Quy định mới đã được thiết lập ở trường học
+,騒ぐ,Tao,さわぐ,Làm ồn/rùng beng,昨日、駅前で騒ぎがあった。,Hôm qua trước nhà ga đã có một cuộc náo loạn
+,知らせる,Tri,しらせる,Thông báo,父が入院したという知らせがあった。,Có thông báo rằng bố tôi dã nhập viện
+,頼む,Lại,たのむ,Nhờ vả,”あなたに頼みがあるんです”,"""Tôi có một việc muốn nhờ anh"""
+,疲れる,Bì,つかれる,Mệt,仕事で疲れがたまっている。,Mệt mỏi chất chồng bởi công việc
+,違う,Vi,ちがう,Khác,この二つの違うがわからない。,Tôi không biết sự khác biệt giữa 2 cái này
+,始める,Thủy,はじめる,Bắt đầu,本を始めから終わりまで全部読んだ。,Tôi đã đọc cuốn sách tất cả từ đầu đến cuối
+,続く,Tục,つづく,Tiếp tục,早く本の続きが読みたい。,Tôi muốn sớm đọc đoạn tiếp theo của quyển sách
+,暮れる,Mộ,くれる,"Lặn(mặt trời), hết(ngày)",年の暮れは忙しい。,Cuối năm thì bận rộn
+,別れる,Biệt,わかれる,"Chia tay, ly biệt lìa từ hôn xa cách",日本では3月は別れの季節だ。,
+,喜ぶ,Hỉ,よろこぶ,Hạnh phúc,優勝できて、喜びでいっぱいだ。,
+,優勝する,Ưu thắng,ゆうしょうする,Vô địch,,
+,笑う,Tiếu,わらう,Cười,歌手の冗談で会場に笑いが起きた。,
+,驚く,Kinh,おどろく,Kinh ngạc giật mình (dân tộc kinh),この大きな家がたったの100万円とは驚きだ。,
+,怒る,Nộ,いかる,Nổi giận bực tức nóng giận,殺陣のニュースに怒りを感じた。,
+,殺人,Sát nhân,さつじん,Sát nhân,,
+,幸せ（な）,Hạnh,しあわせ,Hạnh phúc may mắn,いい家族や友達がいて、私は幸せだ。,
+,得意（な）,Đắc ý,とくい,Giỏi khoái trí tâm đắc,私の得意な教科は数学です。,
+,苦手（な）,Khổ thủ,にがて,Kém yếu không thích hợp,私は山本さんが苦手だ。,
+,熱心（な）,Nhiệt tâm,ねっしん,Nhiệt tình,彼女は子供の教育に熱心だ。,
+,認め,Nhận,みとめ,Thừa nhận coi trọng xác nhận,熱心な仕事ぶりか認められて昇進した。,
+,昇進,Thăng tiến,しょうしん,Thăng tiến,,
+,夢中（な）,Mộng trung,むちゅう,Say mê,子供の頃、SF漫画に夢中になった。,
+,観客,Quan khách,かんきゃく,Khánh hàng,他の観客は笑いながら見ていたが、私には退屈な映画だった。,
+,退屈（な）,Thoái khuất,たいくつ,"Chán, tẻ nhạt chán trường buồn tẻ",今日は何もすることがなく退屈だ。,
+,健康（な）,Kiện khang,けんこう,Khỏe khoắn khí huyết,毎日運動をしていたら、とても健康になった。,
+,育てる,Dục,そだてる,Nuôi dạy,心も体も健康な子供を育てたい。,
+,苦しい,Khổ,くるしい,Cực khổ đau đớn lam lũ,苦しい試合だったが、なんとか勝つことができた。,
+,悪口,Ác khẩu,わるぐち,Nói xấu,彼女はどんなに悪口を言われても平気な顔をしている。,
+,平気（な）,Bình khí,へいき,Bình thản,体力があるので、10キロぐらい歩くのは平気だ。,
+,悔しい,Hối,くやしい,"Đáng tiếc, đáng ân hận",何度練習してもうまくできなくて、悔しい。,
+,羨ましい,Tiện,うらやましい,Ghen tị,弟はゲームをたくさん持っている友達を羨ましがっている,
+,才能,Tài năng,さいのう,Tài năng,才能の豊かな人が羨ましい。,
+,豊か,Phong,ゆたか,Phong phú,,
+,蚊,Văn,か,Muỗi,蚊に刺されて首が痒い。,
+,首,Thủ,くび,Cái cổ,,
+,痒い,Dưỡng,かゆい,Ngứa,,
+,大人しい,Đại nhân,おとなしい,Hiền lành,うちの犬は大人しくて、決して人にほえない。,
+,我慢強い,Ngã mạn cường,がまんづよい,Chịu đựng giỏi,チャンスがやっと来るのを我慢強く待つ。,
+,正直（な）,Chính trực,しょうじき,Trung thực,彼は正直な人だから、うそをつくことが出来ない。,
+,けち（な）,,,Kiệt xỉ,あの人はとてもけちだ。,
+,我儘（な）,Ngã tận,わがまま,Ích kỉ,彼の我儘にはみんな困っている。,
+,積極的（な）,Tích cực tính,せっきょくてき,Tính tích cực,日本語を身に付けるため、積極的に日本人の友達を作った。,
+,消極的（な）,Tiêu cực tính,しょうきょくてき,Tính tiêu cực,いまの首相は教育問題に消極的だ。,
+,満足（な）,Mãn túc,まんぞく,Mãn nguyện,アルバイトだけでは満足な収入は得られない。,
+,不満（な）,Bất mãn,ふまん,Bất mãn,この仕事に不満な点はない。,
+,不安（な）,Bất an,ふあん,Bất an,最近、体の調子が良くない。悪い病気ではないか不安だ。,
+,大変（な）,Đại biến,たいへん,Vất vả,子育て中のお母さんは大変だ。,
+,無理（な）,Vô lý,むり,Vô lý quá sức quá khả năng,たった100万円で家を建てるなんて無理な話だ。,
+,不注意（な）,Bất chú ý,ふちゅうい,Không chú ý,疲れると不注意なミスが多くなる。,
+,楽（な）,Lạc,らく,"Thoải mái, nhàn hạ",もう少し楽な暮らしがしたい。,
+,面倒（な）,Diện đảo,めんどう,"Phiền hà, quấy rầy",最近忙しいので、料理を作るのが面倒になった。,
+,手続き,Thủ tục,てつづき,Thủ tục,”ご入会は面倒な手続きはいりません”,
+,失礼（な）,Thất lễ,しつれい,Mất lịch sự,挨拶しても返事もしない。,
+,当然（な）,Đương nhiên,とうぜん,Đương nhiên,お金を借りたら、返すのが当然だ。,
+,意外（な）,Ý ngoại,いがい,Ngoài ý muốn,彼が結婚していて子供もいるとは意外だった。,
+,調査,Điều tra,ちょうさ,Điều tra,事故を調査するうちに意外な事実がわかった。,
+,事故,Sự cố,じこ,"Tai nạn, sự cố",,
+,結構（な）,Kết cấu,けっこう,"Tốt, cũng được",”お味はいかがですか？　大変結構です。”,
+,派手（な）,Phái thủ,はで,"Lòe loẹt, màu mè",この服は派手すぎる。,
+,地味（な）,Địa vị để ý âm hán khác nghĩa,じみ,"Giản dị, đơn giản",あの人は若いのに、地味なかっこうばかりしている,
+,お洒落（な）,Sái lạc,おしゃれ,Thời trang thịnh hành,彼はいつもスーツをおしゃれに着こなしている。,
+,変（な）,Biến,へん,"Lạ, kỳ quặc",変なメールが届いたのですぐに消した。,
+,不思議（な）,Bất tư nghĩa,ふしぎ,"Bí hiểm, kỳ quái",この村には不思議な話が伝わっている。,
+,増し（な）,Tăng,まし,Tốt lên hơn thêm gia tăng,せきがひどかったが、うがいをしたら、前よりましになった。,
+,無駄（な）,Vô đả,むだ,Lãng phí,落ちるとわかっているのに試験を受けるのは無駄な事だ。,
+,自由（な）,Tự do,じゆう,Tự do,赤ちゃんがいるので自由な時間がほとんどない。,
+,不自由（な）,Bất tự do,ふじゆう,"Không tự do, tàn phế",（目／耳／足。。）が不自由な人,
+,暖まる,Noãn,あたたまる,Ấm lên,お風呂に入ると体が暖まる。,
+,暖める,Noãn,あたためる,Làm ấm,エアコンをつけて部屋を暖める。,
+,高まる,Cao,たかまる,"Bốc lên, nâng lên",台風が近づき、波が高まっている。,
+,高める,Cao,たかめる,"Làm cho lên, dựng lên",若者はもっとコミュニケーション能力を高める必要がある。,
+,強まる,Cường,つよまる,"Khỏe,mạnh lên",台風の勢力はますます強まっている。,
+,強める,Cường,つよめる,Làm khỏe lên,（火／体／自信。。）を強める。,
+,弱まる,Nhược,よわまる,Yếu đi,疲れていると抵抗力が弱まって、かぜにかかりやすくなる。,
+,弱める,Nhược,よわめる,Làm yếu đi,”材料が柔らかくなったら、火を弱めてゆっくり煮込んでください”,
+,広まる,Quảng,ひろまる,Được lan truyền,そのうわさは1日で会社中に広まった。,
+,広める,Quảng,ひろめる,"Loan tin, tuyên truyền",明治時代に、ヨーロッパから帰国した留学生達が日本に西洋文化を広めた。,
+,深まる,Thâm,ふかまる,Sâu sắc thêm,子供が出来て二人の愛情はますます深まった。,
+,深める,Thâm,ふかめる,Làm sâu sắc thêm,交流を深め、相手の国のことを理解する事が大切だ。,
+,世話,Thế thoại,せわ,Giúp đỡ,うちではペットの世話は私の仕事だ。,
+,家庭,Gia đình,かてい,Gia đình,早く結婚してあたたかい家庭を持ちたい。,
+,厳しい,Nghiêm,きびしい,Nghiêm khắc,田中課長は仕事では厳しいが、家庭では優しいお父さんだそうだ。,
+,易しい,Dị,やさしい,Dễ,,
+,協力する,Hiệp lực,きょうりょくする,Hiệp lực,家族で協力して祖母の介護をした。,
+,介護,Giới hộ,かいご,Chăm sóc,,
+,感謝する,Cảm tạ,かんしゃする,"Cảm ơn, biết ơn",アドバイスしてくれた先輩に、とても感謝している。,
+,お詫び,Sá,おわび,Xin lỗi,お詫びの言葉を言う。,
+,迷惑をかける,Mê hoặc,めいわくをかける,Làm phiền,迷惑をかけた人にお詫びをした。,
+,お辞儀,Từ nghi,おじぎ,Cúi chào,”お客様にはていねいにお辞儀をしましょう”,
+,丁寧（な）,Đinh ninh,ていねい,Lịch sự cẩn thận,,
+,握手,Ác thủ,あくしゅ,Bắt tay,コンサートで歌手と握手した。,
+,意地悪する,Ý địa ác,いじわるする,"Tâm địa xấu, xấu bụng",好きな子にはつい意地悪してしまう。,
+,悪戯する,Ác hí,いたずらする,Nghịch ngợm,悪戯をして、先生に怒られた。,
+,節約する,Tiết ước,せつやくする,"Tiết kiệm, dành dụm",電気や水を節約する。,
+,生活費,Sinh hoạt phí,せいかつひ,Phí sinh hoạt,生活費の節約,
+,経営する,Kinh doanh,けいえいする,Quản lý kinh doanh,父はスーパーを経営している。,
+,反省する,Phản tỉnh,はんせいする,Kiểm điểm,1日の反省を日記に書く。,
+,実行する,Thực hành,じっこうする,Thực hành,この計画は実行が難しい。,
+,進歩する,Tiến bộ,しんぽする,Tiến bộ,英語を勉強しているが、進歩がない。,
+,変化する,Biến hóa,へんかする,Thay đổi,社会が変化する。,
+,発達する,Phát đạt,はったつする,"Phát triển, phát đạt",体や心が発達する。,
+,体力,Thể lực,たいりょく,Thể lực,”たくさん食べて、体力をつけて下さい”,
+,低下,Đê hạ,ていか,Suy giảm,若者の体力が低下している。,
+,若者,Nhã giả,わかもの,Giới trẻ,,
+,出場する,Xuất trường,しゅつじょうする,"Ra mặt, ra mắt(trình diễn)",オリンピックへの出場が決まった。,
+,活躍する,Hoạt dược,かつやくする,Hoạt động,田中選手の活躍を期待する。,
+,競争する,Cạnh tranh,きょうそうする,Cạnh tranh,どちらがいい成績を取るか、友達と競争した。,
+,成績,Thành tích,せいせき,Thành tích,,
+,応援する,Ứng viên,おうえんする,"Cổ vũ, hỗ trợ",自分の学校のチームを応援する。,
+,拍手する,Phách thủ,はくしゅする,Vỗ tay,ステージの歌手に拍手をする。,
+,噂する,Đồn,うわさする,"Lời đồn, bàn tán",クラスメートの噂をしていたら、そこに本人が現れた。,
+,情報,Tình báo,じょうほう,Thông tin,テレビから色々な情報を得る。,
+,流行する,Lưu hành,りゅうこうする,Lưu hành,若者の間でブログが流行している。,
+,交換する,Giao hoán,こうかんする,Trao đổi,時計の電池が切れたので交換した。,
+,宣伝する,Tuyên truyền,せんでんする,Tuyền truyền,バーゲンセールの宣伝が始まった。,
+,広告,Quảng cáo,こうこく,Quảng cáo,新聞に新製品の広告がのっていた。,
+,注目する,Chú mục,ちゅうもくする,Tập trung sự chú ý,有名歌手の結婚が注目を集めている。,
+,通訳する,Thông dịch,つうやくする,Thông dịch,英語を日本語に通訳する。,
+,翻訳する,Phiên dịch,ほんやくする,Phiên dịch,日本語の小説を英語に翻訳する。,
+,伝言する,Truyền ngôn,でんごんする,Nhắn tin,留守番電話に伝言を残す。,
+,報告する,Báo cáo,ほうこくする,Báo cáo,報告をまとめる。,
+,録画,Lục họa,ろくが,Ghi hình,テレビ番組をビデオに録画する。,
+,混雑する,Hỗn tạp,こんざつする,"Hỗn tạp, đông đúc",デパートは大勢の人で混雑している。,
+,渋滞する,Sáp trệ,じゅうたいする,"Tắc đường, tắc nghẽn",道路が渋滞していて、会議に遅刻した。,
+,衝突する,Xung đột,しょうとつする,"Xung đột, va chạm",バスがトラックと衝突した。,
+,場面,Trường diện,ばめん,Hiện trường,電車の衝突の場面を見た。,
+,被害,Bị hại,ひがい,Thiệt hại,地震で大きな被害が出た。,
+,事故,Sự cố,じこ,"Tại nạn, sự cố",事故の原因を調べる。,
+,事件,Sự kiện,じけん,Sự kiện,近所で子供が次々といなくなるという事件がある。,
+,故障する,Cố chướng,こしょうする,"Hỏng hóc, trục trặc",洗濯機が故障したのでコインランドリーへ行った。,
+,修理する,Tu lý,しゅうりする,Sửa chữa,パソコンが壊れたので、修理に出た。,
+,停電,Đình điện,ていでん,Mất điện,雷が落ちて停電した。,
+,雷,Lôi,かみなり,Sấm sét,,
+,調子,Điều tử,ちょうし,Tình trạng,あの選手は最近調子がいい。,
+,自信,Tự tín,じしん,Tự tin,体力に自信がある。,
+,自慢,Tự mãn,じまん,Tự mãn,自慢の料理を作る。,
+,関心,Quan tâm,かんしん,Quan tâm,チンさんの進歩の速さに感心した。,
+,感動する,Cảm động,かんどうする,Cảm động,私はピアノの絵に感想し、自分も画家になりたいと思った。,
+,興奮する,Hưng phấn,こうふんする,Hưng phấn,試合を見ていた観客達は興奮して大声を出した。,
+,感想,Cảm tưởng,かんそう,Cảm tưởng,”ご感想はいかがですか？　素晴らしかった。”,
+,予想する,Dự tưởng,よそうする,"Đoán trước, trù liệu",選挙の結果を予想する。,
+,専門,Chuyên môn,せんもん,Chuyên môn,専門は言語学です。,
+,研究する,Nghiên cứu,けんきゅうする,Nghiên cứu,私は大学で日本の政治を研究している。,
+,調査する,Điều tra,ちょうさする,Điều tra,学生の希望を調査する。,
+,原因,Nguyên nhân,げんいん,Nguyên nhân,今、警察が事故の原因を調べている。,
+,結果,Kết quả,けっか,Kết quả,１位になりたかったが、結果は３位だった。,
+,解決,Giải quyết,かいけつ,Quải quyết,大きな問題が解決した。,
+,確かめる,Xác,たしかめる,"Xác nhận, kiểm tra",間違いがないかどうかを確かめる。,
+,間違う,Gian vi,まちがう,Sai,,
+,利用する,Lợi dụng,りようする,Sử dụng,通学に電車を利用する。,
+,減る,Giảm,へる,Giảm,水不足なので、水道の利用を減らした。,
+,理解する,Lý giải,りかいする,Lý giải,内容を深く理解する。,
+,発見する,Phát kiến,はっけんする,Phát hiện,新しい種類の動物を発見した。,
+,発明する,Phát minh,はつめいする,Phát minh,ベルは電話を発明した。,
+,関係する,Quan hệ,かんけいする,Quan hệ,あの二人は先輩・後輩の関係だ。,
+,団体,Đoàn thể,だんたい,"Đoàn thể, nhóm",博物館で団体のチケットを買う。,
+,博物館,Bác học quán,はくぶつかん,Viện bảo tàng,,
+,選挙,Tuyển cử,せんきょ,Bầu cử,選挙で市長を選ぶ。,
+,行う,Hành,おこなう,Tổ chức,1月に選挙が行われる。,
+,税金,Thuế kim,ぜいきん,Tiền thuế,年度末に税金を払う。,
+,責任,Trách nhiệm,せきにん,Trách nhiệm,社長は倒産の責任をとって辞めた。,
+,書類,Thư loại,しょるい,Giấy tờ,留学の手続きに必要な週類を準備する。,
+,題名,Đề danh,だいめい,Nhan đề,コンクールに出す作品に題名をつける。,
+,条件,Điều kiện,じょうけん,Điều kiện,このアルバイトは条件がいい。,
+,採用,Thải dụng,さいよう,Tuyển dụng,運転免許を持っていることが採用の条件だ。,
+,締め切り,Đế thiết,しめきり,Hạn cuối,レポートの締め切りは30日です。,
+,期間,Kì gian,きかん,kì thời kì,申し込み期間は12月1日から3日までです。,
+,倍,Bối,ばい,Gấp đôi,値段が倍になる。,
+,近道,Cận đạo,ちかみち,Đường tắt,駅への近道を通る。,
+,中心,Trung tâm,ちゅうしん,Trung tâm,月は地球を中心に回っている。,
+,辺り,Biên,あたり,Xung quanh,この辺りは10年前は林だった。,
+,周り,Chu,まわり,Xung quanh vùng xung quanh,腰の周りを測る。,
+,穴,Huyệt,あな,Lỗ,壁に穴をあける。,
+,地面,Địa diện,じめん,Mặt đất,地面に穴を掘る。,
+,掘る,Quật,ほる,Đào,,
+,列,Liệt,れつ,Hàng ( xếp hàng),入り口の前には長い列が出来ていた。,
+,幅,Phúc,はば,Chiều rộng,道の幅が広い。,
+,範囲,Phạm vi,はんい,Phạm vi,A社の携帯電話は電波の届く範囲が広い。,
+,内容,Nội dung,ないよう,Nội dung,このレポートは内容が良いが、形式は少し直した方がいい。,
+,中身,Trung thân,なかみ,Nội dung bên trong,箱を開けて中身を見る。,
+,特徴,Đặc trưng,とくちょう,Đặc trưng dáng đặc tính,商品の特徴を確かめる。,
+,普通,Phổ thông,ふつう,"Phổ thông, thông thường",パスポートの申請には１週間ぐらいかかるのが普通だ。,
+,当たり前,Đương tiền,あたりまえ,Dĩ nhiên,そんなひどいことをされたら、怒るのが当たり前だ。,
+,偽,Ngụy,にせ,Giả (giả dối),偽の銀行員にだまされてお金を取られた。,
+,別れる,Biệt,わかれる,"Chia tay, ly biệt",,
+,国籍,Quốc tịch,こくせき,Quốc tịch,私はずっとアメリカで暮らしているが、国籍は日本だ。,
+,東洋,Đông dương,とうよう,Phương Đông,東洋の文化と西洋の文化を比べる。,
+,西洋,Tây dương,せいよう,Phương Tây,,
+,比べる,Tỷ,くらべる,So sánh,,
+,文化,Văn hóa,ぶんか,Văn hóa,,
+,国際,Quốc tế,こくさい,Quốc tế,日本企業の海外支社でのトラブルが国際問題に発展した。,
+,支社,Chi xã,ししゃ,Chi nhánh,,
+,企業,Xí nghiệp,きぎょう,"Công ty, xí nghiệp",,
+,発展,Phát triển,はってん,Phát triển,,
+,自然,Tự nhiên,しぜん,Tự nhiên,山や海へ行って、自然の中で過ごす。,
+,景色,Cảnh sắc,けしき,Phong cảnh,初めて日本の山に行った。,
+,宗教,Tôn giáo,しゅうきょう,Tôn giáo,世界には色々な宗教がある。,
+,愛,Ái,あい,Yêu,私は家族を愛している。,
+,が　届く,Giới,とどく,Được gửi đến,父から手紙が届いた。,
+,届ける,Giới,とどける,Chuyển đến,隣の家に旅行のお土産を届けた。,
+,掻く,Tao,かく,"Gãi, cào, bới",痒いところを掻いたら血が出てきた。,
+,掴む,Quặc,つかむ,"Tóm, chộp",電車で突然腕を掴まれて吃驚した。,
+,吃驚する,cật kinh,びっくりする,"Ngạc nhiên, giật mình",,
+,握る,Ác,にぎる,"Bắt, bíu, nắm",子供はこわがって母親の手を強く握った。,
+,押さえる,Áp,おさえる,"Giữ, ôm(bụng)",あの人はお腹を抑えて座っている。腹痛だろう。,
+,が　近づく,Cận,ちかづく,"Đến gần, tới gần",台風が日本列島に近づく。,
+,近づける,Cận,ちかづける,"Kết thân, mang lại gần",車を道のわきに近づける。,
+,が　合う,Hợp,あう,Chạm mặt,彼女とは意見が合わない。,
+,不図,Bất đồ,ふと,Đột nhiên,ふと顔を上げると、先生の目が合ってしまった。,
+,合わせる,Hợp,あわせる,Hiệp sức,みんなで力を合わせて頑張りましょう。,
+,が　当たる,Đương,あたる,Bị đánh,ボールが当たって窓グラスが割れた。,
+,当てる,Đương,あてる,Đánh trúng,相手選手のボールが速いので、ラケットに当てるのも大変だ。,
+,比べる,Tỷ,くらべる,So sánh,東京と大阪の面積を比べる。,
+,似合う,Tự hợp,にあう,Hợp,彼女は着物がよく似合う。,
+,似る,Tự,にる,Giống,彼女は母親によく似ている。,
+,似せる,Tự,にせる,Bắt chước,アイドルに髪型を似せる。,
+,分かれる,Phân,わかれる,Phân chia,トイレは男性用と女性用に分かれている。,
+,分ける,Phân,わける,Chia,人ごみを分けて進む。,
+,財産,Tài sản,ざいさん,Tài sản,財産を３人の子供に分ける。,
+,足す,Túc,たす,"Cộng vào, thêm vào",風呂の湯が少なくなったので、足しておいた。,
+,薄い,Bạc,うすい,"Nhạt, mỏng",味が薄かったので、塩を足した。,
+,塩,Diêm,しお,Muối,,
+,引く,Dẫn,ひく,Trừ,”このドアは押すのではなく、引いて開けるんです”,
+,が　増える,Tăng,ふえる,Tăng lên,貯金が増える。,
+,増やす,Tăng,ふやす,Làm tăng lên,貯金を増やす。,
+,が減る,Giảm,へる,Giảm,体重が減る。,
+,減らす,Giảm,へらす,Làm giảm,体重を減らす。,
+,店長,Điếm trường,てんちょう,Chủ tiệm,4月に店長がかわった。,
+,が返る,Phản,かえる,Được trả lại,友達に貸したお金が返ってきた。,
+,返す,Phản,かえす,Trả lại,この本は２週間以内に図書館に返さなければならない。,
+,譲る,Nhượng,ゆずる,"Nhường nhịn, nhượng bộ",電車の中で、お年寄りに席を譲った。,
+,が助かる,Trợ,たすかる,Được giúp,飛行機が落ちたが３人が助かった。,
+,助ける,Trợ,たすける,Giúp đỡ,川に落ちた子供を助けた。,
+,虐める,Ngược,いじめる,Bị bắt nạt,ネコを虐める。,
+,騙す,Phiến,だます,"Lừa đảo, lạm dụng",ブランド品だと思ったら、偽物だった。騙された。,
+,独身,Độc thân,どくしん,Độc thân,彼は”独身だ”と騙して５人の女性とつきあっている。,
+,女性,Nữ giới,じょせい,Nữ giới,,
+,付き合う,Phó hợp,つきあう,Hẹn hò,,
+,盗む,Đạo,ぬすむ,Ăn trộm,留守中に泥棒に入られて、お金を盗まれてしまった。,
+,留守中,Lưu thủ trung,るすちゅう,Trong khi vắng nhà,,
+,が刺さる,Thích,ささる,"Mắc, hóc",指にとげが刺さって痛い。,
+,刺す,Thích,さす,"Đâm, chọc",指にとげを刺してしまった。,
+,殺す,Sát,ころす,Giết,ゴキブリをスリッパでたたいて殺した。,
+,が隠れる,Ẩn,かくれる,"Ẩn nấp, núp",逃げた犯人は空き家に隠れていた。,
+,隠す,Ẩn,かくす,Che giấu,お金を引き出しの奥に隠した。,
+,が埋まる,Mai,うまる,Bị lấp/chôn,山がくずれて家が埋まってしまった。,
+,埋める,Mai,うめる,Chôn lấp,穴を掘ってゴミを埋めた。,
+,囲む,Vi,かこむ,"Bao quanh, vây hãm",テーブルを囲んで座る。,
+,が詰まる,Cật,つまる,"Chặt, đầy",かばんにたくさん荷物が詰まっていて重い。,
+,詰める,Cật,つめる,"Nhét vào, tống vào",かばんに荷物を詰める。,
+,開く,Khai,ひらく,Mở,ドアが開く。,
+,閉じる,Bế,とじる,Đóng,エスカレーターが閉じた。,
+,が飛ぶ,Phi,とぶ,Bay,鳥が空を飛んでいる。,
+,飛ばす,Phi,とばす,Làm cho bay,紙飛行機を飛ばす。,
+,振る,Chấn,ふる,Vẫy (tay),”この飲み物はよく振ってからお飲み下さい”,
+,捲る,Quyển,めくる,"Xắn, quấn",カレンダーを捲る。,
+,見かける,Kiến,みかける,Tình cờ gặp,道で偶然、昔の友達を見かけた。,
+,確かめる,Xác,たしかめる,"Xác nhận, kiểm tra",ファックスが届いたかどうか、相手に電話して確かめた。,
+,試す,Thí,ためす,Mặc thử,洋服が似合うかどうか、着て試してみた。,
+,洋服,Dương phục,ようふく,Quần áo kiểu Tây Âu,,
+,繰り返す,Sào phản,くりかえす,Lặp lại,”同じ失敗を繰り替えてはいけません”,
+,体操する,Thể thao,たいそうする,Tập thể dục,,
+,訳す,Dịch,やくす,Dịch,英語を日本語に訳す。,
+,行う,Hành,おこなう,Tổ chức,試験を行う。,
+,が間違う,Gian vi,まちがう,Bị sai,お金があれば幸せになれると言うのは間違った考えだ。,
+,間違える,Gian vi,まちがえる,Làm sai,テストの答えを間違えた。,
+,許す,Hứa,ゆるす,"Tha thứ, tha lỗi",罪を許される。,
+,謝る,Tạ,あやまる,Xin lỗi,ひどいことを言われてけんかになったが、相手が謝ってので許してあげた。,
+,が慣れる,Quán,なれる,Quen,日本へ来て半年経たって、生活にも慣れた。,
+,慣らす,Quán,ならす,"Làm quen, khởi động",準備運動をして体を慣らしてからプールに入った方がいい。,
+,が立つ,Lập,たつ,Bị đứng,”名前を呼ばれたら立ってください”,
+,立てる,Lập,たてる,Đứng lên,屋根の上にアンテナを立てる。,
+,が建つ,Kiến,たつ,Được xây,家の前に大きなマンションが建った。,
+,建てる,Kiến,たてる,Xây lên,都心に家を建てるのは大変だ。,
+,が育つ,Dục,そだつ,"Lớn lên, khôn lớn",雨が多い年は米がよく育つ。,
+,育てる,Dục,そだてる,"Nuôi, dạy",母は５人の子供を育てた。,
+,が生える,Sinh,はえる,"Mọc, phát triển",髪が生える。,
+,生やす,Sinh,はやす,Để dài (râu),髭を生やす。,
+,が汚れる,Ô,よごれる,Bị bẩn,空気の汚れたところには住みたくない。,
+,汚す,Ô,よごす,Làm bẩn,どろ遊びをして服を汚した。,
+,が壊れる,Hoại,こわれる,Bị hỏng,壊れた時計を直してもらった。,
+,壊す,Hoại,こわす,Làm hỏng,息子は新しいおもちゃをすぐに壊してしまう。,
+,が割れる,Cát,われる,Bị vỡ,（ガラス／皿／コップ。。）が割れる。,
+,割る,Cát,わる,Làm vỡ,卵を割ってボウルに入れる。,
+,が折れる,Triết,おれる,Gãy,強い風で枝が折れた。,
+,折る,Triết,おる,Làm gãy,スキーをして、足の骨を折った。,
+,が破れる,Phá,やぶれる,Rách,（紙／本／布。。）が破れる。,
+,破る,Phá,やぶる,Xé rách,（約束／基礎記。。。）を破る。,
+,が曲がる,Khúc,まがる,"Bị gập, cong",”この角を右に曲がって５０mほど行くと、銀行があります”,
+,曲げる,Khúc,まげる,"Gập, bẻ cong",（針金／ひざ／腰。。。）を曲げる。,
+,が外れる,Ngoại,はずれる,"Rời ra, tách ra",ボタンが外れる。,
+,外す,Ngoại,はずす,"Làm rời ra, tách ra",（メガネ／腕時計／ボタン。。。）を外す。,
+,が揺れる,Dao,ゆれる,Bi rung,風で木の葉が揺れている。,
+,揺らす,Dao,ゆらす,"Rung, đung đưa",子供の乗ったブランコを揺らして遊ばせた。,
+,が流れる,Lưu,がながれる,"Chảy, trôi đi",町の中心を大きな川が流れている。,
+,流す,Lưu,ながす,Cho chảy,汚れた水を川に流してはいけない。,
+,都心,Đô tâm,としん,Trung tâm,,
+,が濡れる,Nhu,ぬれる,Bị ướt,雨に濡れて、風邪をひいた。,
+,濡らす,Nhu,ぬらす,Làm ướt,水をこぼして、服を濡らしてしまった。,
+,が迷う,Mê,まよう,Lạc đường,日本で就職するか、国に帰るか、迷っている。,
+,悩む,Não,なやむ,"Phiền muội, lo lắng",父は腰痛で悩んでいる。,
+,が慌てる,Hoảng,あわてる,"Luống cuống, vội vàng",学校に遅れそうになって、慌てて家を出た。,
+,が覚める,Giác,さめる,"Tỉnh giấc, tỉnh dậy",昨夜は暑くて、夜中に何度も目が覚めた。,
+,覚ます,Giác,さます,Làm cho tỉnh lại,目を覚ますと、もう10時だった。,
+,夜中,Dạ trung,よなか,Giữa đêm,,
+,が眠る,Miên,ねむる,Ngủ,入試の目の日、緊張してよく眠れなかった。,
+,緊張する,Khẩn trương,きんちょうする,"Căng thẳng, lo lắng",,
+,祈る,Kì,いのる,Cầu nguyện,家族の健康を神に祈った。,
+,祝う,Chúc,いわう,Chúc mừng,（新年／誕生日／成功。。）を祝って乾杯した。,
+,感じる,Cảm,かんじる,Cảm thấy,私のミスで試合に負けてしまい、責任を感じている。,
+,濃い,Nùng,こい,"Nồng, đậm",（色／味／コーヒー。。。）が濃い。,
+,薄い,Bạc,うすい,Nhạt mỏng mảnh dẻ,薄い本,
+,酸っぱい,Toan,すっぱい,Chua,古い牛乳のパックを開けたら、酸っぱい匂いがした。,
+,臭い,Xú,くさい,"Thối, tanh",なっとうは臭いから嫌いだという日本人も多い。,
+,可笑しい,Khả tiếu,おかしい,Buồn cười,山本君は授業中にいつも可笑しいことを言ってみんなを笑わせる。,
+,格好いい,Cách hảo,かっこいい,"Đẹp trai, bảnh bao",あの先生は格好いいので人気がある。,
+,旨い,chỉ,うまい,Ngon,母は料理がうまい。,
+,親しい,Thân,したしい,"Thân thiện, gần gũi",彼とは留学した大学が同じで親しくなった。,
+,詳しい,Tường,くわしい,"Tường tận, tỉ mỉ",この地図はとても詳しい。,
+,細かい,Tế,こまかい,"Chi tiết, chi li",新聞の字は細かくて、お年寄りには読みづらい。,
+,浅い,Thiển,あさい,"Nông, cạn",この川は浅いので、子供が泳いでも危なくない。,
+,硬い/固い,Ngạch/Cố,かたい,"Cứng, dai",瓶のふたが固くてなかなか開けない。,
+,温い,Ôn,ぬるい,Nguội,ぬるいコーヒーは美味しくない。,
+,眩しい,Huyễn,まぶしい,"Chói mắt, sáng chói",カーテンを開けたら、太陽が眩しかった,
+,蒸し暑い,Chưng thử,むしあつい,Nóng ẩm,日本の夏は、蒸し暑い。,
+,清潔（な）,Thanh khiết,せいけつ,"Thanh khiết, sạch sẽ",清潔な服を身につける。,
+,新鮮（な）,Tân tiến,しんせん,"Tươi, mới",親善な魚は美味しい。,
+,豊か（な）,Phong,ゆたか,Giàu có,この辺りは国でもっとも豊かな地方だ。,
+,立派（な）,Lập phái,りっぱい,Siêu,立派な（人／仕事／成績。。。）,
+,正確（な）,Chính xác,せいかく,Chính xác,正確な数は分からないが、この観客は5000人ぐらいだろう。,
+,確か（な）,Xác,たしか,Xác thực,新聞は確かな事実だけを伝えなければならない。,
+,重要（な）,Trọng yếu,じゅうよう,Trọng yếu,今日は午後から重要な会議がある。,
+,必要（な）,Tất yếu,ひつよう,Cần thiết,子供に必要なのは親の温かい愛情だ。,
+,勿体無い（な）,Vật thể vô,もったいない,"Lãng phí, hoang phí",流行遅れでもまだ着られる服を捨てるのはもったいない。,
+,凄い,Thê,すごい,"Giỏi, xuất sắc kinh khủng",昨日の台風は凄かった。,
+,酷い,Khốc,ひどい,"Kinh khủng, khủng khiếp",一人を大勢でいじめるとはひどい。,
+,激しい,Kích,はげしい,Mãnh liệt,入試に失敗して、今まで勉強しなかったことを激しく後悔した。,
+,そっくり（な）,,,Giống,兄は父に顔も声もそっくりした。,
+,急（な）,cấp,きゅう,Gấp,急に歯が痛みだした。,
+,適当（な）,Thích đương,てきとう,"Thích hợp, vừa phải",家庭教師を探しているが、適当な人がなかなかいない。,
+,特別（な）,Đặc biệt,とくべつ,Đặc biệt,彼女には音楽家としての特別な才能がある。,
+,完全（な）,Hoàn toàn,かんぜん,Hoàn toàn,土の中からの古代の器が完全な形で出てきた。,
+,盛ん（な）,Thịnh,さかん,Thịnh vượng,私の故郷は農業が盛んだ。,
+,様々（な）,Dạng,さまざま,Nhiều loại,インターネットから様々な情報が得られる。,
+,可能（な）,Khả năng,かのう,Khả năng,この成績なら希望の大学に合格することは十分可能だ。,
+,不可能（な）,Bất khả năng,ふかのう,Không khả thi,化学が進歩して、今まで不可能だったことも可能になった。,
+,基本的（な）,Cơ bản đích,きほんてき,Tính cơ bản,パソコンの基本的な使い方はマニュアルに書いてある。,
+,国際的（な）,Quốc tế đích,こくさいてき,Tính quốc tế,東京で国際的なアニメフェスティバルが開かれた。,
+,ばらばら（な）,,,"Bừa bộn, lung tung",みんなの意見がばらばらで、なかなか結論が出ない。,
+,ぼろぼろ（な）,,,Rách nát,ひどい目にあって身も心もぼろぼろになってしまった。,
+,読書する,Độc thư,どくしょ,Đọc sách,趣味は読書だ。,
+,演奏,Diễn tẫu,えんそう,"Trình diễn, biểu diễn",楽器を演奏する。,
+,芸術,Nghệ thuật,げいじゅつ,Nghệ thuật,美術、音楽、文学、演劇などはみんな、芸術の一種であると言える。,
+,検査する,Kiểm tra,検査する,Kiểm tra,病院で脳の検査を受けた。,
+,胃,Vị,い,Dạ dày,胃の検査,
+,血液,Huyết dịch,けつえき,Máu,体の中を血液が流れている。,
+,流れる,Lưu,ながれる,"Chảy, trôi đi",,
+,治療する,Trị liệu,ちりょうする,Trị liệu,病気を治療した。,
+,症状,Chứng trạng,しょうじょう,Triệu chứng,風邪の症状は熱、咳、鼻水などだ。,
+,鼻水,Tị thủy,はなみず,Nước mũi,,
+,予防する,Dự phòng,よぼうする,Dự phòng,災害を予防する。,
+,栄養,Vinh dưỡng,えいよう,Dinh dưỡng,健康のために栄養に気をつけましょう。,
+,手術,Thủ thuật,しゅじゅつ,Phẫu thuật,胃の手術を受けた。,
+,死亡する,Tử vong,しぼうする,Tử vong,死亡の原因を調べる。,
+,命,Mệnh,いのち,Cuộc sống,命は大切にしなければならない。,
+,一生,Sinh,いっしょう,"Cuộc đời, suốt đời",ピカソの一生を調べる。,
+,誤解する,Ngộ giải,ごかいする,Hiểu nhầm,誤解がないようにするにはよく話し合うことが大切だ。,
+,後悔,Hậu hối,こうかい,Hối hận,私は若い頃に勉強しなかったことをとても後悔している。,
+,訳,Dịch,わけ,Lý do,遅刻した訳を話す。,
+,態度,Thái độ,たいど,Thái độ,あの学生は授業中の態度が悪い。,
+,癖,Phích,くせ,Thói quen,私の癖は困った時、頭をかくことだ。,
+,礼儀,Lễ nghi,れいぎ,Lễ nghi,目上の人への礼儀,
+,文句,Văn cú,もんく,"Kêu ca, phàn nàn",給料に文句がある。,
+,表情,Biểu tình,ひょうじょう,Biểu tình,あの人は表情が豊かだ。,
+,表面,Biểu diện,ひょうめん,"Bề ngoài, bề mặt",あのビルは表面にタイルが張っている。,
+,禁煙する,Cấm yên,きんえんする,Cấm hút thuốc,”この部屋は禁煙だ”,
+,禁止する,Cấm chỉ,きんしする,Cấm,美術館の中では写真を撮ることは禁止されている。,
+,完成する,Hoàn thành,かんせいする,Hoàn thành,半年かけて論文を完成させた。,
+,課題,Khóa đề,かだい,Chủ đề,現在の日本には高齢化、ゴミ問題など多くの課題がある。,
+,例外,Lệ ngoại,れいがい,Ngoại lệ,どんな規則にも例外がある。,
+,基本,Cơ bản,きほん,Cơ bản,何の練習でも基本が大切だ。,
+,記録する,Kí lục,きろくする,"Ghi chép, ghi lại. kỉ lục",先週の会議の記録を読んだ。,
+,状態,Trạng thái,じょうたい,Trạng thái,あの会社は今経営の状態が良くない。,
+,出来事,Xuất lai sự,できごと,Việc đã xảy ra,毎日の出来事をブログに書く。,
+,場面,Trường diện,ばめん,"Hiện trường, bối cảnh",目の前でトラックとバスが衝突した。その場面が夢に出て来た。,
+,機会,Cơ hội,きかい,Cơ hội,彼女と二人で話したいのだが、なかなか機会がない。,
+,距離,Cự ly,きょり,Cư ly,駅からの距離を測る。,
+,提案する,Đề án,ていあんする,Đề xuất,会議で提案をする。,
+,やり取りする,Thủ,やりとりする,Trao đổi,友達とメールをやり取りする。,
+,知識,Tri thức,ちしき,Tri thức,本を読んで知識を身につける。,
+,実力,Thực lực,じつりょく,Thực lực,試合で実力を出す。,
+,手段,Thủ đoạn,しゅだん,"Phương pháp, thủ đoạn",問題を解決するために必要な手段をとる。,
+,代表する,Đại biểu,だいひょうする,Đại biểu,クラスの代表として会議に参加する。,
+,影響する,Ảnh hưởng,えいきょうする,Ảnh hưởng,両親の影響で私も子供の頃から絵を描き始めた。,
+,効果,Hiệu quả,こうか,Hiệu quả,この薬を飲んだら、すぐに効果が出た。,
+,印象,Ấn tượng,いんしょう,Ấn tượng,彼女と初めて会った時、優しそうな人だという印象を受けた。,
+,印,Ấn,しるし,Dấu hiệu,地図の目的地に印をつける。,
+,合図,Hợp đồ,あいず,Dấu hiệu,友達に目で合図を送る。,
+,共通する,Cộng thông,きょうつうする,Điểm chung,二人の共通の趣味は音楽だ。,
+,強調する,Cường điều,きょうちょうする,Nhấn mạnh,大事な点を強調して説明する。,
+,大事,Đại sự,だいじ,Quan trọng,,
+,説明する,Thuyết minh,せつめいする,Thuyết minh,,
+,省略する,Tỉnh lược,しょうりゃくする,Lược bỏ,詳しく説明を省略して簡単に出す。,
+,詳しい,Tường,くわしい,"Tường tận, cụ thể",,
+,挑戦する,Thiêu chiến,ちょうせんする,"Khiêu chiến, thách thức",難しい課題に挑戦する。,
+,やる気,Khí,やるき,Có hứng thú làm,ほめられて、やる気になる。,
+,勇気,Dũng khí,ゆうき,Dũng khí,困難に立ち向かう勇気。,
+,資格,Tư cách,しかく,Tư cách,弁護士の資格を取る。,
+,弁護士,Biện hộ sĩ,べんごし,Luật sư,,
+,申請する,Thân thỉnh,しんせいする,"Yêu cầu, thỉnh cầu",パスポートの申請,
+,通帳,Thông trướng,つうちょう,Sổ tiết kiệm sổ tài khoản ngân hàng,通帳は貯金をする本人が作らなければならない。,
+,貯金する,Trữ kim,ちょきんする,"Tiết kiệm, dành dụm",,
+,本人,Bản nhân,ほんにん,Người chính,,
+,契約する,Khế ước,けいやくする,Hợp đồng,アパートを２年間借りる契約した。,
+,証明する,Chứng minh,しょうめいする,Chứng minh,銀行口座を開くには身分を証明するものが必要だ。,
+,変更する,Biến canh,へんこうする,Sửa đổi,旅行先を沖縄から北海道に変更する。,
+,保存する,Bảo tồn,ほぞんする,Bảo tồn,パソコンにデータを保存する。,
+,保護する,Bảo hộ,ほごする,Bảo hộ,自然を保護する。,
+,郊外,Giao ngoại,こうがい,Ngoại ô,都心より環境のいい郊外に住みたい。,
+,都心,Đô tâm,としん,Trung tâm,,
+,資源,Tư nguyên,しげん,Tài nguyên,資源に有効に利用する。,
+,有効,Hữu hiệu,ゆうこう,Hữu hiệu,,
+,不足する,Bất túc,ふそくする,Không đủ,野菜が不足した食事。,
+,平均する,Bình quân,へいきんする,Trung bình,テストの点を平均する。,
+,割合,Cát hợp,わりあい,Tỉ lệ,デパートの客は女性の割合が高い。,
+,商売する,Thương mại,しょうばいする,Thương mại,父は衣料品の販売をしている。,
+,商品,Thương phẩm,しょうひん,Sản phẩm,店に商品を並べる。,
+,質,Chất,しつ,Chất,このメーカーの製品は質がいい。,
+,型,Hình,かた,"Mẫu, khuôn",新しい型のパソコンを買った。,
+,生産する,Sinh sản,せいさんする,Sản xuất,日本は農作物の生産が少ない。,
+,農業,Nông nghiệp,のうぎょう,Nông nghiệp,,
+,消費する,Tiêu phí,しょうひする,Tiêu phí,牛乳の消費が減っている。,
+,物価,Vật giá,ぶっか,Giá cả,東京は物価が高い。,
+,倒産する,Đảo sản,とうさんする,Phá sản,会社が倒産する。,
+,携帯,Huề đới,けいたい,Cầm tay,外国人はいつも外国人登録証を携帯していなければならない。,
+,現代,Hiện đại,げんだい,Hiện đại,現代は情報の時代だと言われている。,
+,情報,Tình báo,じょうほう,Thông tin,,
+,世紀,Thế kỉ,せいき,Thế kỉ,21世紀が始まった。,
+,文化,Văn hóa,ぶんか,Văn hóa,文化が発達する。,
+,都市,Đô thị,とし,Thành phố,都市に人口が集中する。,
+,地方,Địa phương,ちほう,Địa phương,雨が多い地方では植物がよく育つ。,
+,戦争する,Chiến tranh,せんそうする,Chiến tranh,A国とB国の間で戦争が起きた。,
+,平和,Bình hòa,へいわ,Hòa bình,世界の平和を守る。,
+,が上る,Thượng,のぼる,Leo lên,東京タワーに上る。,
+,階段,Giai đoạn,かいだん,Cầu thang,階段を上る。,
+,坂,Phản,さか,Dốc,坂を上る。,
+,下る,Hạ,くだる,Đi xuống,（坂／川／山。。。）を下る。,
+,が進む,Tiến,すすむ,Tiến lên,出口に向かって進む。,
+,進める,tiến,すすめる,Đi tiến lên,”もう少し車を前に進めて下さい”,
+,が通る,Thông,とおる,Đi qua,この道は車がたくさん通る。,
+,通す,thông,とおす,Xuyên qua,カーテンを通して光が部屋に中に入っている。,
+,光,Quang,ひかり,Ánh sáng,,
+,布,Bố,ぬの,Vải,この布は空気は通すが水は通さない。,
+,空気,Không khí,くうき,Không khí,,
+,が越える/超える,Việt/Triệu,こえる,Vượt qua,汽車は夜中に国境を越えた。,
+,が過ぎる,Quá,すぎる,Quá,列車は広島駅を過ぎた。,
+,過ごす,Quá,すごす,Trải qua,大垣時代を東京で過ごした。,
+,が移る,Di,うつる,Di chuyển,黒板の字が見えにくかったので、前の席に移った。,
+,移す,Di,うつす,Chuyển,本社を大阪から東京に移した。,
+,本社,Bản xã,ほんしゃ,Trụ sở chính,,
+,連れる,Liên,つれる,"Dẫn, dắt",子供を動物園へ連れて行った。,
+,が寄る,Kỳ,よる,Ghé thăm,窓のそばに寄って外を見た。,
+,寄せる,Kỳ,よせる,Ghé vào,地震の時は車を道の左側に寄せて止めなけれはならない。,
+,奨学金,Tưởng học kim,しょうがくきん,Học bổng,成績の良い学生に奨学金を与える。,
+,成績,Thành tích,せいせき,Thành tích,,
+,与える,Dữ,あたえる,"Cung cấp, đưa",犬に餌を与える。,
+,得る,Đắc,える,Đạt được,会議では司会者から許可を得てからでなければ発信してはいけない。,
+,が向く,Hướng,むく,Đối diện,私の部屋は東南に向いている。,
+,向ける,Hướng,むける,"Quay, hướng đến",顔を右に向ける。,
+,勧める,Khuyến,すすめる,"Mời, rủ, gợi ý",ダイエットしている友人に一緒にウォーキングをしようと勧めた。,
+,薦める,Tiến,すすめる,"Gợi ý, giới thiệu",先生に勧められた本を買った。,
+,任せる,Nhiệm,まかせる,Để cho ai làm gì,責任の重い仕事を新人に任せてみた。,
+,守る,Thủ,まもる,"Giữ, tuân thủ",（法律／規則／ルール。。）を守る。,
+,争う,Tranh,あらそう,"Gây gổ, tranh nhau",あの兄弟はいつも小さなことで争っている。,
+,望む,Vọng,のぞむ,Ước,卒業後は教師になることを望んでいる。,
+,信じる,Tín,しんじる,Tin tưởng,頑張れば成功すると信じている。,
+,が　通じる,Thông,つうじる,Thông qua,日本に来た時、私の日本語が通じるかどうか心配だった。,
+,飽く,Bão,あく,Chán,好きな物でも、毎日食べると飽きてしまう。,
+,思いつく,Tư,おもいつく,Nghĩ,（アイディア／考え／方法。。）が思いつく。,
+,思いやる,Tư,おもいやる,"Quan tâm, thông cảm",父親の言葉が厳しかったが、その言葉には子供を思いやる気持ちが表れていた。,
+,熱中する,Nhiệt trung,ねっちゅうする,Nghiện (karaoke),母は今カラオケに熱中している。,
+,暮らす,Mộ,くらす,Sinh sống,都会で暮らすのは便利だが、お金がかかる。,
+,巻く,Quyển,まく,Quấn,マフラーに首に巻く。,
+,結ぶ,Kết,むすぶ,Buộc,髪をリボンで結ぶ。,
+,紐,Nữu,ひも,Dây,靴のひもを結ぶ。,
+,が済む,Tế,すむ,Kết thúc,仕事が済んだらすぐ帰る。,
+,済ます,Tế,すます,Kết thúc,朝はパンと牛乳で済ます。,
+,出来る,Xuất lai,できる,"Hoàn thành, có thể",駅前に新しいスーパーが出来た。,
+,切れる,Thiết,きれる,"Cắt, hết",このはさみはよく切れる。,
+,切らす,Thiết,きらす,Hết mất tiêu,うっかりしていてトイレペーパーを切らしてしまった。,
+,が伝わる,Truyền,つたわる,Truyền đi,彼が結婚すると言ううわさが伝わってきた。,
+,伝える,Truyền,つたえる,Truyền đi nhắn dạy dỗ,電話で用事を伝える。,
+,が続く,Tục,つづく,Tiếp tục,美しい砂浜が続いている。,
+,続ける,Tục,つづける,Tiếp tục còn lằng nhằng,もう３時間も会議を続けている。,
+,が繋がる,Hệ,つながる,Kết nối buộc vào liên hệ,本州と四国は橋で繋がっている。,
+,繋ぐ,Hệ,つなぐ,Kết nối,この橋は本州と四国を繋いでいる。,
+,繋げる,Hệ,つなげる,Làm chặt thêm,このチャンスをぜひ成功に繋げたい。,
+,伸びる,Thân,のびる,"Cao lên, phát triển lên",（畝／髪／ひげ。。。）が伸びる。,
+,伸ばす,Thân,のばす,Làm cao/phát triển lên,アイロンをかけてしわを伸ばす。,
+,延びる,Duyên,のびる,Trì hoãn,レポートの締め切りが伸びて良かった。,
+,延ばす,Duyên,のばす,Hoãn,チケットが取れなかったので帰国の日を延ばした。,
+,が重なる,Trọng,かさなる,Chồng lên chồng chất,印刷したら、紙が２枚重なって出てきた。,
+,重ねる,Trọng,かさねる,Chồng,皿を重ねて置いておく。,
+,が広がる,Quảng,ひろがる,Rộng,道幅が広がって、歩きやすくなった。,
+,広げる,Quảng,ひろげる,Mở rộng,お客様が増えているので、もっと店を広げたい。,
+,が載る,Tải,のる,"Lên, vừa",この荷物は大きすぎて、私の車には乗らないだろう。,
+,載せる,Tải,のせる,"Cho lên, cho vào",棚に荷物を乗せる。,
+,が　揃う,Tiễn,そろう,Thu thập,”全員が揃ったら出発しましょう”,
+,揃える,Tiễn,そろえる,Tập hợp,マージャンをするため、メンバーをそろえた。,
+,が　纏まる,Triền,まとまる,"Tập hợp, thống nhất",３時間話し合って、やっとクラスの意見が纏まった。,
+,纏める,Triền,まとめる,Tập hợp,引っ越しの前にいらなくなった物を纏めて捨てた。,
+,が付く,Phó,つく,"Dính, gắn, có",怪我をしてシャツに血がついた。,
+,付ける,Phó,つける,"Gắn, thêm vào",パンにジャムをつける。,
+,が貯まる,Trữ,たまる,Tiết kiệm,（お金／水／ゴミ。。。）が貯まる。,
+,貯める,Trữ,ためる,Tiết kiệm,宿題をためてしまい、休みの最後の日にまとめてやった。,
+,が交じる/混じる,Giao/Hỗn,まじる,"Giao vào, lẫn vào",女の子が男の子に交じってサッカーをしている。,
+,が交ざる/混ざる,Giao/Hỗn,まざる,Lẫn vào,男性が混ざってサッカーをした。,
+,交ぜる/混ぜる,Giao/Hỗn,まぜる,Trộn vào,お米に豆を混ぜてたいた。,
+,が溶ける/解ける,Dong/Giải,とける,"Giải quyết, giải đông chảy tan ra",3時間かかって、やっと問題が解けた。,
+,解く/溶く/溶かす,Dong/Giải,とく/とかす,"Giải quyết, giải đông",数学の問題を解く。,
+,含む,Hàm,ふくむ,Bao gồm,レモンはビタミンCを多く含んでいる。,
+,含める,Hàm,ふくめる,Bao gồm,うちの家族は私を含めて５人です。,
+,が　抜ける,Bạt,ぬける,"Tháo, tuột",髪の毛が抜ける。,
+,抜く,Bạt,ぬく,Lấy ra,ビールの栓を抜く。,
+,が現れる,Hiện,あらわれる,"Xuất hiện, hiện ra",犯人はお金を取りに現れたところを逮捕された。,
+,現す,Hiện,あらわす,Đã xuất hiện,雲がなくなって富士山が姿を現した。,
+,が表れる,Biểu,あらわれる,Hiện ra,彼の顔には合格した喜びが表れていた。,
+,表す,Biểu,あらわす,"Biểu thị, biểu lộ",気持ちを言葉で表す。,
+,が散る,Tàn,ちる,Tàn,風で桜が散ってしまった。,
+,散らす,Tàn,ちらす,Tàn,風が桜を散らしてしまった。,
+,差す,Sai,さす,"Giương, giơ",雨がやんで日がさしてきた。,
+,時間,thời gian,じかん,thời gian,,
+,現在,hiện tại,げんざい,hiện tai,,
+,将来の夢,tương lai mộng,しょうらいのゆめ,ước mơ của tương lai,,
+,早朝,tảo triều,そうちょう,sáng sớm,,
+,昼間は暖かい,trú gian noãn,ひるまはあたたかい,sự ấm áp của buổi trưa,,
+,にっちゅう,nhật trung,にっちゅう,ban ngày,,
+,夜中,dạ trung,やちゅう,ban đêm,,
+,真夜中,chân dạ trung,まよなか,nữa đêm,,
+,深夜,thâm dạ,しんや,nửa đêm,,
+,平日,bình nhật,へいじつ,ngày thường,,
+,休日,hưu nhật,きゅうじつ,ngày nghỉ,,
+,祝日,lễ nhật,しゅくじつ,ngày lễ,,
+,年末年始,niên mạt niên thủy,ねんまつねんし,đầu năm cuối năm,,
+,上旬,thượng tuần,じょうじゅん,thượng tuần 10 ngày đầu tháng,,
+,初旬,sơ tuần,しょじゅ,thượng tuần 10 ngày đầu tháng,,
+,中旬,trung tuần,ちゅうじゅ,trung tuần 10 ngày giữa tháng,,
+,下旬,hạ tuần,げじゅん,hạ tuần 10 ngày cuối tháng,,
+,連休,liên hưu,れんきゅう,kì nghỉ dài,,
+,お盆休み,bồn hưu,おぼんやすみ,nghỉ lễ obon,,
+,年中無休,niên trung vô hưu,ねんちゅうむきゅう,cả năm không nghỉ,,
+,家族,gia tộc,かぞく,gia định,,
+,父親,phụ thân,ちちおや,phụ thân,,
+,母親,mẫu thân,ははおや,mẫu thân,,
+,親,thân,おや,cha mẹ,,
+,両親,lưỡng thân,りょうしん,cha mẹ,,
+,祖父,tổ phụ,そふ,ông,,
+,祖母,tổ mẫu,そぼ,bà,,
+,叔父,thúc phụ,おじ,"bác ,chú, cậu",,
+,叔母,thúc mẫu,おば,bác cô dì,,
+,息子,tức tử,むすこ,con trai,,
+,娘,nương,むすめ,con gái,,
+,姪,điệt,めい,cháu gái,,
+,甥,sanh,おい,cháu trai,,
+,孫,tôn,まご,cháu( nói chung cách ông bà gọi),,
+,嫁,giá,よめ,con dâu,,
+,長男,trường nam,ちょうなん,trưởng nam con trai cả,,
+,次男,thứ nam,じなん,thứ nam,,
+,三男,tam nam,さんなん,con trai thứ 3,,
+,長女,trưởng nữ,ちょうじょ,trưởng nữ con gái đầu,,
+,次女,thứ nữ,じじょ,thứ nữ,,
+,三女,tam nữ,さんじょ,con gái thứ 3,,
+,親戚,thân thích,しんせき,thân thích thân thuộc thân quen,,
+,親類,thân loại,しんるい,họ hàng,,
+,友人,hữu nhân,ゆうじん,bạn thân,,
+,知人,tri nhân,ちじん,người quen,,
+,知り合い,tri hợp,しりあい,người quen,,
+,先輩,tiền bối,せんぱい,tiền bối,,
+,後輩,hậu bối,こうはい,hậu bối,,
+,上司,thượng khả,じょうし,cấp trên,,
+,部下,bộ hạ,ぶか,bền dưới cấp dưới,,
+,同僚,đồng niêu,どうりょう,bạn đồng nghiệp,,
+,仲間,trọng gian,まなか,bạn bè bạn cùng cty,,
+,同級生,đồng cấp sinh,どうきゅうせい,bạn học cùng lớp,,
+,家庭,gia đình,かてい,gia đình,,
+,家,gia,うち,nhà,,
+,実家,thực gia,じっか,nhà riêng( nhà của bố mẹ đẻ),,
+,独身,độc thân,どくしん,độc thân,,
+,食べる,thực,たべる,ăn,,
+,飲む,ẩm,のむ,uống,,
+,噛む,giảo,かむ,cắn,,
+,齧る,niết,かじる,ngoạm gặm nhấm,,
+,舐める,thỉ,なめる,liếm,,
+,食事を取る,thực sự thụ,しょくじをとる,"ăn uống,dùng bữa",,
+,酔う,túy,よう,say,,
+,酔っ払う,túy phất,よっぱらう,say rượu bia,,
+,朝食,triều thực,ちょうしょく,bữa sáng,,
+,朝ごはん,triều,あさごはん,bữa sáng,,
+,昼食,trú thực,ちゅうしょく,bữa trưa,,
+,昼ごはん,trú,ひるごはん,bữa trưa,,
+,夕食,tịch thực,ゆうしょく,bữa tối,,
+,晩ごはん,văn,ばんごはん,bữa tối,,
+,おやつ,,,đồ nhắm đồ ăn vặt,,
+,夜食,dạ thưc,やしょく,ăn đêm,,
+,弁当,biện dương,べんとう,cơm hộp,,
+,定食,định thực,ていしょく,suất ăn,,
+,惣菜,vật thái,そうざい,"món ăn thường ngày, thức ăn thường ngày",,
+,食品,thực phẩm,しょくひん,thực phẩm,,
+,冷凍食品,lãnh đông thực phẩm,れいとうしょくひん,đồ ăn đông lạnh,,
+,インスタント食品,thực phẩm,インスタントしょくひん,đồ ăn liền,,
+,お腹が空く,phúc không,おなかがすく,đói bụng,,
+,喉が渇く,hầu khát,のどがかわく,khát nước,,
+,食欲がある,thực dục,しょくよくがある,thèm ăn,,

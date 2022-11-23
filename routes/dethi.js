@@ -79,7 +79,6 @@ router.put("/:id/listCauhoi", async (req, res) => {
     });
     for(let i = 0; i < cauhoi.length; i++){
       if (!dethi.cauhoi.includes(req.body.cauhoiId)) {
-        console.log(cauhoi[i])
         await dethi.updateOne({
           $push: {
             cauhoi: cauhoi[i],

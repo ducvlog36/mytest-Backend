@@ -4,6 +4,32 @@ const Tuvung = require("../models/Tuvung")
 
 const fs = require("fs");
 
+// tao giao trinh tu vung
+router.post("/themgiaotrinh/:id", async (req,res) => {
+    try{
+        let GiaoTrinh = req.body
+        GiaoTrinh.userId = req.params.id
+        const newGiaoTrinh = await new Giaotrinh(GiaoTrinh)
+        const giaotrinh = await newGiaoTrinh.save()
+        return res.status(200).json(giaotrinh)
+    } catch(err) {
+        return res.status(500).json(err)
+    }
+})
+
+//get giao trinh vby id
+router.get("/getgiaotrinh/:id",async (req,res)=>{
+    try{
+        const giaotrinh = await Giaotrinh.findById(req.params.id)
+
+        return res.status(200).json(giaotrinh)
+
+    }catch(err){
+        return res.status(500).json(err)
+    }
+})
+
+
 router.post("/themcapdo", async (req,res) => {
     try{
         const newCapdo = await new Capdodethi({
@@ -65,9 +91,6 @@ router.put("/:id/xoadethi", async(req,res) => {
 router.get("/all/:id", async(req,res) =>{
     const data2 = fs.readFileSync('tuvung_main.json', 'utf8');
     const database2 = JSON.parse(data2)
-  
-  
-  
     const tuvung = []
     try{
         const giaotrinh = await Giaotrinh.findById(req.params.id)
@@ -93,8 +116,6 @@ router.get("/all/:id", async(req,res) =>{
 
 
 //console.log(tuvung)
-console.log(tuvung.length)
- 
        return res.status(200).json(tuvung)
     }catch(err){
         return res.status(500).json(":"+err)

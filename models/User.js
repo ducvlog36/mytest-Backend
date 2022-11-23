@@ -32,6 +32,10 @@ const UserSchema = new mongoose.Schema({
         type: Array,
         default: [],
      },
+     tuvung: {
+      type: Array,
+      default: [],
+   },
      caulamsai:{
       type: Array,
       default: []
