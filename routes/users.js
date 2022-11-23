@@ -118,13 +118,18 @@ router.get("/:id/baitaptuvung", async(req,res) =>{
         const tuvung = user.tuvung
         let dethi = []
         for(let i = 0; i < tuvung.length;i++){
-            dethi[i] = await Giaotrinh.findById(tuvung[i])
+            try{
+                dethi[i] = await Giaotrinh.findById(tuvung[i])
+            }catch{
+
+            }
         }
         return res.status(200).json(dethi)
     }catch(err){
         return res.status(500).json(err)
     }
 })
+
 
 // user add tu vung
 router.put("/:id/addbaitaptuvung", async(req,res) =>{
@@ -135,13 +140,35 @@ router.put("/:id/addbaitaptuvung", async(req,res) =>{
         {
             await user.updateOne({
                 $push: {
-                    tuvung: req.body.magiaotrinh,
+                    tuvung: req.body.madethi,
                 },
             })
             return res.status(200).json("Bạn đã lưu đề thi thành công")
 
         } else {
             return res.status(403).json("Đề thi này bạn đã lưu rồi")
+        }
+    }catch(err){
+        return res.status(500).json(err)
+    }
+})
+
+//user xoa bai tap tu vung
+router.put("/:id/xoabaitaptuvung", async(req,res) =>{
+    try{
+        const user = await User.findById(req.params.id)
+
+        if(user.tuvung.includes(req.body.madethi))
+        {
+            await user.updateOne({
+                $pull: {
+                    tuvung: req.body.madethi,
+                },
+            })
+            return res.status(200).json("Xóa đề thi thành công")
+
+        } else {
+            return res.status(403).json("Bạn chưa lưu đề thi này")
         }
     }catch(err){
         return res.status(500).json(err)
