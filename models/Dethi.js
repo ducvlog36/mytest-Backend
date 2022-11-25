@@ -35,6 +35,10 @@ const DethiSchema = new mongoose.Schema({
     },
     typedethi:{
         type:String,
+    },
+    isAdminCreated:{
+        type: Boolean,
+        default: false
     }
 },
 {timestamps: true}

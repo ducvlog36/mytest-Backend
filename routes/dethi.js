@@ -166,6 +166,20 @@ router.get("/all/:id", async (req, res) => {
   }
 });
 
+//Get tat ca de thi
+router.get("/getbyAdminCreated/:id", async (req, res) => {
+  try {
+    const dethis = await Dethi.find({});
+    const dethi = dethis.filter((dethi) =>{
+      return (dethi.isAdminCreated !== undefined && dethi.isAdminCreated === true)
+    })
+    res.status(200).json(dethi);
+  } catch (err) {
+    return res.status(500).json(err);
+  }
+});
+
+
 //Get cau hoi theo de thi
 router.get("/cauhoi/:id", async (req, res) => {
   try {
