@@ -298,48 +298,73 @@ router.put("/:id/userXoadethi", async(req,res) => {
 //user lam bai tu vung
 router.put("/:id/nopbaituvung", async (req, res) => {
 
-    try{
-        const user = await User.findById(req.params.id)
-        const giaotrinh = await Giaotrinh.findById(req.body.giaotrinh)
-
-        let nguoilam = {
-            iDnguoilam: user._id,
-            name : user.username,
-            cachdoc : req.body.cachdoc,
-            nghia : req.body.nghia,
-            vidu : req.body.vidu
-        }
-        let num = 0
-        let tuvungs = giaotrinh.tuvung
-        let tuvung = {}
-        for(let i = 0; i < tuvungs.length; i++){
-            if(tuvungs[i].id === req.body.id){
-                if(tuvungs[i].nguoilam.length === 0){
-                    tuvungs[i].nguoilam.push({
-                        iDnguoilam: user._id,
-                        name : user.username,
-                        cachdoc : req.body.cachdoc,
-                        nghia : req.body.nghia,
-                        vidu : req.body.vidu
-                    })
-
-                    await giaotrinh.updateOne({
-                        $set: {
-                          tuvung:tuvungs
-                        }
-                      })
-                      return res.status(200).json(" add moi thanh cong");
-                }else{
-                        for(let j = 0; j < tuvungs[i].nguoilam.length; j++){
-                            if(tuvungs[i].nguoilam[j].iDnguoilam.toString() ===  user._id.toString()){
-                                tuvungs[i].nguoilam[j] = {
+    if(req.body.nghia === null || req.body.nghia === undefined){
+        try{
+            const user = await User.findById(req.params.id)
+            const giaotrinh = await Giaotrinh.findById(req.body.giaotrinh)
+    
+            let nguoilam = {
+                iDnguoilam: user._id,
+                name : user.username,
+                cachdoc : req.body.cachdoc,
+                nghia : req.body.nghia,
+                vidu : req.body.vidu
+            }
+            let num = 0
+            let tuvungs = giaotrinh.tuvung
+            let tuvung = []
+            tuvung[0]={
+                id:req.body.id,
+                nguoilam:[]
+            }
+            
+            for(let i = 0; i < tuvungs.length; i++){
+                if(tuvungs[i].id === req.body.id){
+                    //Trường hợp người dùng insert cách đọc mới
+                    if(tuvungs[i].nguoilam.length === 0){
+                        tuvungs[i].nguoilam.push({
+                            iDnguoilam: user._id,
+                            name : user.username,
+                            cachdoc : req.body.cachdoc,
+                            nghia : req.body.nghia,
+                            vidu : req.body.vidu
+                        })
+    
+                        await giaotrinh.updateOne({
+                            $set: {
+                              tuvung:tuvungs
+                            }
+                          })
+                          return res.status(200).json("Thành công");
+                          //Trường hợp người dùng update cách đọc mới
+                    }else{
+                            for(let j = 0; j < tuvungs[i].nguoilam.length; j++){
+                                if(tuvungs[i].nguoilam[j].iDnguoilam.toString() ===  user._id.toString()){
+                                    tuvungs[i].nguoilam[j] = {
+                                        iDnguoilam: user._id,
+                                        name : user.username,
+                                        cachdoc : req.body.cachdoc,
+                                        nghia : req.body.nghia,
+                                        vidu : req.body.vidu
+                                    }
+                                    num+=1
+                                    await giaotrinh.updateOne({
+                                        $set: {
+                                          tuvung:tuvungs
+                                        }
+                                      })
+        
+                                    return res.status(200).json(tuvungs);
+                                }
+                            }
+                            if(num < 1 ){
+                                tuvungs[i].nguoilam.push({
                                     iDnguoilam: user._id,
                                     name : user.username,
                                     cachdoc : req.body.cachdoc,
                                     nghia : req.body.nghia,
                                     vidu : req.body.vidu
-                                }
-                                num+=1
+                                })
                                 await giaotrinh.updateOne({
                                     $set: {
                                       tuvung:tuvungs
@@ -348,31 +373,91 @@ router.put("/:id/nopbaituvung", async (req, res) => {
     
                                 return res.status(200).json(tuvungs);
                             }
-                        }
-                        if(num < 1 ){
-                            tuvungs[i].nguoilam.push({
-                                iDnguoilam: user._id,
-                                name : user.username,
-                                cachdoc : req.body.cachdoc,
-                                nghia : req.body.nghia,
-                                vidu : req.body.vidu
-                            })
-                            await giaotrinh.updateOne({
-                                $set: {
-                                  tuvung:tuvungs
-                                }
-                              })
-
-                            return res.status(200).json(tuvungs);
-                        }
+                    }
                 }
+    
             }
+    
+              return res.status(200).json(tuvungs);
+    
+        } catch (err) {
+          return res.status(500).json("saothe nhi nopbaituvung!" + err);
         }
-          return res.status(200).json("thanh cong");
+    }else{
+        try{
+            const user = await User.findById(req.params.id)
+            const giaotrinh = await Giaotrinh.findById(req.body.giaotrinh)
+    
+            let num = 0
+            let tuvungs = giaotrinh.tuvung            
+            for(let i = 0; i < tuvungs.length; i++){
+                if(tuvungs[i].id === req.body.id){
+                   // Trường hợp người dùng insert kết quả
+                    if(tuvungs[i].nguoilam.length === 0){
+                        tuvungs[i].nguoilam.push({
+                            iDnguoilam: user._id,
+                            name : user.username,
+                            cachdoc : req.body.cachdoc,
+                            nghia : req.body.nghia,
+                            vidu : req.body.vidu
+                        })
+    
+                        await giaotrinh.updateOne({
+                            $set: {
+                              tuvung:tuvungs
+                            }
+                          })
+                          return res.status(200).json(" add moi thanh cong");
 
-    } catch (err) {
-      return res.status(500).json("saothe nhi nopbaituvung!" + err);
+                        // Trường hợp người dùng update kết quả
+                    }else{
+                            for(let j = 0; j < tuvungs[i].nguoilam.length; j++){
+                                if(tuvungs[i].nguoilam[j].iDnguoilam.toString() ===  user._id.toString()){
+                                    tuvungs[i].nguoilam[j] = {
+                                        iDnguoilam: user._id,
+                                        name : user.username,
+                                        cachdoc : tuvungs[i].nguoilam[j].cachdoc,
+                                        nghia : req.body.nghia,
+                                        vidu : req.body.vidu
+                                    }
+                                    num+=1
+                                    await giaotrinh.updateOne({
+                                        $set: {
+                                          tuvung:tuvungs
+                                        }
+                                      })
+        
+                                    return res.status(200).json(tuvungs);
+                                }
+                            }
+                            if(num < 1 ){
+                                tuvungs[i].nguoilam.push({
+                                    iDnguoilam: user._id,
+                                    name : user.username,
+                                    cachdoc : req.body.cachdoc,
+                                    nghia : req.body.nghia,
+                                    vidu : req.body.vidu
+                                })
+                                await giaotrinh.updateOne({
+                                    $set: {
+                                      tuvung:tuvungs
+                                    }
+                                  })
+    
+                                return res.status(200).json(tuvungs);
+                            }
+                    }
+                }
+    
+            }
+    
+              return res.status(200).json(tuvungs);
+    
+        } catch (err) {
+          return res.status(500).json("saothe nhi nopbaituvung!" + err);
+        }
     }
+
   });
 
 module.exports = router

@@ -29,13 +29,12 @@ router.get("/all/:id", async(req,res) =>{
             console.log(`Error reading file from disk: ${err}`);
             return res.status(500).json(err)
         } else {
-    
             // parse JSON string to JSON object
             const tuvung = JSON.parse(data).sort(function(a,b){
                 return b.index - a.index
             });
             res.status(200).json(tuvung.filter(function(tuvung){
-                return (tuvung.giaotrinh.includes("耳から覚えるN2"))
+                return (tuvung.giaotrinh.includes("耳から覚えるN3"))
              }))
             // print all databases
         }
@@ -136,7 +135,7 @@ router.get("/:id/giaotrinh", async (req, res) => {
         let tuvungs = giaotrinh.tuvung
         let tuvung = []
         for(let i = 0; i < tuvungs.length; i++){
-            tuvung[i] = await Tuvung.findById(tuvungs[i])
+            tuvung[i] = await Tuvung.findById(tuvungs[i].id)
         }
       return res.status(200).json(tuvung);
 
@@ -165,7 +164,7 @@ router.get("/:id/tuvunggiaotrinh", async (req, res) => {
       let tuvungs = giaotrinh.tuvung
       let tuvung = []
       for(let i = 0; i < tuvungs.length; i++){
-          tuvung[i] = await Tuvung.findById(tuvungs[i])
+          tuvung[i] = await Tuvung.findById(tuvungs[i].id)
       }
     return res.status(200).json(giaotrinh);
 

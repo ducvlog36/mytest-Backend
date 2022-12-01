@@ -29,6 +29,7 @@ router.post("/:id/userTaodethi", async (req, res) => {
       desc: req.body.desc,
       ispublic: req.body.ispublic,
       userCreate: userId,
+      isAdminCreated: true
     });
     const dethi = await newDethi.save();
     await dethi.updateOne({
@@ -202,7 +203,7 @@ router.get("/cauhoi_dethiID/:id", async (req, res) => {
     const listCauHoi = cauhoi.filter(
       (cauhoi) => cauhoi.IdDethiRoot === req.params.id
     );
-    //let cauhoi = []
+
     // for(let i = 0; i < listCauHoi.length ; i++){
     //     cauhoi[i] = await Cauhoi.findById(listCauHoi[i])
     // }
@@ -211,6 +212,32 @@ router.get("/cauhoi_dethiID/:id", async (req, res) => {
     return res.status(500).json(err);
   }
 });
+
+//Xóa tất cả câu hỏi trong đề thi
+router.post("/cauhoi_dethiID/:id", async (req, res) => {
+  try {
+    const cauhoi = await Cauhoi.find({});
+    const listCauHoi = cauhoi.filter(
+      (cauhoi) => cauhoi.IdDethiRoot === req.params.id
+    );
+      let id = []
+     for(let i = 0; i < listCauHoi.length ; i++){
+      Cauhoi.findByIdAndDelete(listCauHoi[i]._id, function (err, docs) {
+        if (err){
+            console.log(err)
+        }
+        else{
+            console.log("Deleted : ", docs);
+        }
+    });    
+    }
+    return res.status(200).json(id);
+  } catch (err) {
+    return res.status(500).json(err);
+  }
+});
+
+
 
 //GEt đề thi theo user
 router.get("/user/:id", async (req, res) => {

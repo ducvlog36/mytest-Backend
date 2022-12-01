@@ -207,7 +207,7 @@ router.post("/readcsv/csv", async (req, res) => {
           ];
 
           const newCauhoi = await new Cauhoi({
-            mondai: "文法",
+            mondai: "語彙",
             noidung: noidung,
             //img: req.body.img,
             dapan: dapan,

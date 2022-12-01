@@ -43,4 +43,5 @@ app.get("/", (req, res)=>{
 app.get("/user", (req,res)=>{
     res.send("hello user")
 })
-app.listen(PORT, () => console.log("サーバーが起動しました"))
+
+app.listen(PORT, () => console.log(PORT+"サーバーが起動しました"))

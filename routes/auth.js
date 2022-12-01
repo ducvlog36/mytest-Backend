@@ -18,7 +18,7 @@ router.post("/register",async (req,res) => {
 router.post("/login",async (req,res)=>{
     try{
         const user = await User.findOne({email: req.body.email})
-        if(!user) return res.status(404).send("ユーザーが見つかりません")
+        if(!user) return res.status(404).json("ユーザーが見つかりません")
 
         const vailedPassword = req.body.password === user.password;
         if(!vailedPassword) return res.status(400).json("パスワードが間違います。")
