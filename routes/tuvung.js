@@ -84,8 +84,6 @@ router.get("/insert/csv", (req,res) =>{
             })
     .on("end", () =>{    })
             
-    setTimeout(console.log(data),60000)
-
     }catch(err){
         return res.status(500).json(err)
     }
@@ -138,11 +136,32 @@ router.get("/:id/giaotrinh", async (req, res) => {
             tuvung[i] = await Tuvung.findById(tuvungs[i].id)
         }
       return res.status(200).json(tuvung);
-
+      
     } catch (err) {
       return res.status(500).json("saothe nhi!" + err);
     }
   });
+
+
+  //get tu vung theo giao trinh và stt từ vưng
+router.get("/:id/giaotrinh_stt", async (req, res) => {
+  try{
+      const giaotrinh = await Giaotrinh.findById(req.params.id)
+      let tuvungs = giaotrinh.tuvung
+      let tuvung = []
+      let a={}
+      for(let i = 0; i < tuvungs.length; i++){
+        a = await Tuvung.find({stt:tuvungs[i].id})
+        if(a[0] !== null || a[0] !== undefined){
+          tuvung.push(a[0])
+        }
+      }
+    return res.status(200).json(tuvung);
+
+  } catch (err) {
+    return res.status(500).json("saothe nhi!" + err);
+  }
+});
 
 //get tu vung theo id
 router.get("/:id/tuvung", async (req, res) => {
@@ -185,7 +204,6 @@ router.get("/:id/tuvung", async (req, res) => {
 
 //them tu vung vao de thi
   router.put("/:id/addtuvungvaogiaotrinh", async (req, res) => {
-
   try{
       const giaotrinh = await Giaotrinh.findById(req.params.id)
       let tuvungs = giaotrinh.tuvung
@@ -196,7 +214,6 @@ router.get("/:id/tuvung", async (req, res) => {
 
       if(tuvung.includes(req.body.id)){
         return res.status(200).json("tu vung da ton tai");
-
       }
       else{
         await giaotrinh.updateOne({
@@ -213,6 +230,38 @@ router.get("/:id/tuvung", async (req, res) => {
     return res.status(500).json("saothe nhi!" + err);
   }
 });
+
+//them list tu vung vao de thi
+router.put("/:id/add_list_tuvung", async (req, res) => {
+  try{
+      const giaotrinh = await Giaotrinh.findById(req.params.id)
+      let tuvung = giaotrinh.tuvung
+      let tuvungId = []
+       let listTuvungId = req.body.tuvung
+      for(let i = 0; i < tuvung.length; i++){
+        tuvungId[i] = tuvung[i].id
+      }
+      let tuvungObj =[]
+      for(let i = 0; i< listTuvungId.length; i++){
+        if(!tuvungId.includes(listTuvungId[i])){
+          await giaotrinh.updateOne({
+            $push: {
+              tuvung:{
+                id: listTuvungId[i],
+                nguoilam:[]
+              }
+            }
+          })
+        }else{
+          console.log("co roi")
+        }
+      }
+      return res.status(200).json(tuvungObj);
+  } catch (err) {
+    return res.status(500).json("saothe nhi!" + err);
+  }
+});
+
 
 //xoa tu vung vao de thi
 router.put("/:id/xoatuvungvaogiaotrinh", async (req, res) => {
