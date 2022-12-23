@@ -252,8 +252,6 @@ router.put("/:id/add_list_tuvung", async (req, res) => {
               }
             }
           })
-        }else{
-          console.log("co roi")
         }
       }
       return res.status(200).json(tuvungObj);
@@ -361,6 +359,8 @@ router.post("/import/csv", async (req, res) => {
     return res.status(500).json(err);
   }
 });
+
+
 
 
 module.exports = router

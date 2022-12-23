@@ -17,6 +17,10 @@ const LophocSchema = new mongoose.Schema({
     },
     userId:{
         type:String,
+    },
+    Admin:{
+        type:Array,
+        default:[]
     }
 },
     {timestamps: true}

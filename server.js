@@ -8,6 +8,9 @@ const cauhoiRoute = require("./routes/cauhoi")
 const dethiRoute = require("./routes/dethi")
 const tuvungRouter = require("./routes/tuvung")
 const giaotrinhRouter = require("./routes/giaotrinh")
+const lophocRouter = require("./routes/lophoc")
+const tuvung2Router = require("./routes/tuvung2")
+
 
 const PORT = process.env.PORT || 5000;
 const mongoose = require("mongoose")
@@ -36,10 +39,9 @@ app.use("/api/cauhoi", cauhoiRoute)
 app.use("/api/dethi", dethiRoute)
 app.use("/api/tuvung", tuvungRouter)
 app.use("/api/giaotrinh", giaotrinhRouter)
+app.use("/api/lophoc", lophocRouter)
+app.use("/api/tuvung2", tuvung2Router)
 
-app.get("/", (req, res)=>{
-    res.send("hello express")
-})
 app.get("/user", (req,res)=>{
     res.send("hello user")
 })

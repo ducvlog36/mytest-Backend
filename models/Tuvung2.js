@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 
-const TuvungSchema = new mongoose.Schema({
+const MaziiSchema = new mongoose.Schema({
     isActive:{
         type: Boolean,
         default: true,
@@ -36,9 +36,13 @@ const TuvungSchema = new mongoose.Schema({
     },
     userId :{
         type: String,
+    },
+    mazzi:{
+        type:Array,
+        default:[]
     }
 },
 {timestamps: true}
 )
 
-module.exports = mongoose.model("Tuvung2", TuvungSchema)
+module.exports = mongoose.model("mazzi", MaziiSchema)
